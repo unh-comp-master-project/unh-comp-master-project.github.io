@@ -6,53 +6,56 @@ permalink: /milestones
 
 ### **Abstract**
 
-Summarize in 150-200 words:
+Summarize in 250-300 words:
 
-1. Problem, situation or issue the project will address and why it is important
+1. Problem, situation, or issue that the project will address and why it is important
 2. Objectives or what the project will accomplish
 3. Approach of the research and development process, including tools, data sets, architectural approach, or methods used to do the project
-4. Expected results as evidence of the success of the project work.
+4. Results as evidence of the success of the project work
+5. Evaluation or interpretation of the results and concluding remarks. 
 
-The abstract is written in paragraph form with no itemized list or literature references. All four items are appropriately balanced size-wise.
+Guidelines
 
-**Deadline**: The student presents the abstract to the project advisor for review and comment no later than the 2nd week of the term (Fall, Spring, or Summer).
+* The abstract is written in paragraph form with no itemized list or literature references. 
+* All five items are appropriately balanced size-wise. The first two items must be less than half of the abstract size. 
+* When preparing the very first draft, items 4 and 5 describe what you expect, since the work has just started.
+* The value of the abstract, in all its iterations, is to be the ***map*** that guides your weekly project tasks. 
+* **First Draft Deadline**
+  * The student presents the very first draft of the abstract to the project advisor for review and comment no later than the 2nd week of the term (Fall, Spring, or Summer). 
+* Writing the abstract is an iterative process. There is a discovery component of the project work, which might cause unexpected "turns" in your project development journey. Regular abstract's revisions will capture changes or new directions your project work will take.
 
 ### **Committee**
 
-It is the responsibility of the student to assemble a committee of experts who have agreed to serve on the committee. The project advisor can assist the student in establishing the committee. The committee consists of at least three people well qualified to judge the technical merits of the project. At least two members of the committee are residential faculty in the Applied Engineering and Sciences Department, including the faculty who serves as project advisor.
+It is the responsibility of the student to assemble a committee of experts who have agreed to serve on the committee. The project advisor can assist the student in establishing the committee. The committee consists of at three people who are well qualified to judge the technical merits of the project. At least two members of the committee are residential faculty in the Applied Engineering and Sciences Department, including the faculty who serves as project advisor.
 
-**Deadline**: The student communicates the committee&#39;s composition to the project advisor no later than the 4th week of the Fall or Spring term or 3nd week of the Summer term.
+**Deadline**: The student communicates the committee's composition to the project advisor no later than the 4th week of the Fall or Spring term or 3nd week of the Summer term.
 
 ### **Proposal**
 
 This is a 4 - 6 page paper (not including title page and abstract) that elaborates on and includes:
 
-- Introduction and Objectives
-  - General problem or issue to be addressed
-  - Historical or theoretical context
-  - Most relevant previous research and development (R&amp;D) on the topic
-  - Project&#39;s objectives
-- Significance and Implications
-  - Contribution of the project to the problem and the field of study
-  - Wider implications of the project R&amp;D        (social, cultural, theoretical, etc.)
+- Introduction
+  - General problem or issue to be addressed, including the context or opportunity for topic selection and the importance/significance of the problem/issue
+  - Most relevant previous research and development (R\&D) on the topic
 - Learning Outcomes
-  - Contribution of the project to the student&#39;s educational goals and how this project will enhance understanding of the field
-  - Contribution of the project to the student&#39;s long-term career goals
+  - Contribution of the project to the student's educational goals and how this project will enhance understanding of the field
+  - Contribution of the project to the student's long-term career goals
+- Project Objectives
+  - Concrete contributions of the project to addressing the problem/issue: what will the project work accomplish?
   - Tangible product(s) of the project
 - Approach or Methodology
-  - Methods, procedures, or theories that will be used to address the R&amp;D topic
-  - Sources, tools, data sets, or practices that will be studied in order to pursue the project
-  - Foreseeable challenges or obstacles and how they will be addressed.
+  - Methods, procedures, or theories that will be used to address the R\&D topic
+  - Tools, data sets, techniques, frameworks, and/or practices that will be studied and applied in order to do the project work
 - Location
   - Principal location of project work (school, lab, sponsoring organization)
-  - Any other research or source locations to which the student will travel
 - Preparation and Experience
-  - Preparation and qualification to undertake the project (coursework, job experience, other R&amp;D experiences)
-  - Plans to further prepare before undertaking the project
-  - Project advisor and project committee members: names and qualifications
-- Timetable
-  - Time allotted to each portion of the project (week by week and stage by stage
-  - Brief explanation of R&amp;D activities planned for each week and stage.
+  - Preparation and qualification needed to undertake the project (coursework, job experience, other R\&D experiences)
+  - Plans to further prepare while undertaking the project
+- Project advisor and project committee members
+  - Names, titles/positions, emails
+- Timeline and Planned Activities
+  - Time allotted to each portion of the project (week by week and stage by stage)
+  - Brief explanation of the R\&D activities planned for each week and stage.
 
 **Deadline**: The student presents the project proposal to the project advisor for review and comment no later than the 4th week of the Fall or Spring term or the 3rd week of the Summer term.
 
