@@ -74,8 +74,36 @@ A first full draft of the project paper is presented to the project advisor for 
 ### **Project Presentation**
 Projects must be presented to the Master&#39;s Project Committee. Project presentations are open to the public and announced to the department community. Project presentation announcement includes project title and author, presentation date, location, and abstract. Hard copies of the announcement are posted on the 1st floor. The Department emails the project presentation announcement to all graduate students and department faculty members.
 
-The duration of the presentation is no longer than 45 minutes: 20-30 minutes slide presentation and brief demo (when appropriate), followed by 10-15 minutes Q&amp;A. Presentations are typically scheduled on Friday, the week before Commencement in the Spring term. At the end of that day the MS IT program holds its Graduate Hooding Ceremony. In the Fall term, presentations are scheduled no later than the 1st week in December. In the Summer term, presentations are typically scheduled in August, the week before Fall semester starts.
-
-**Deadline**: Project presentation must be scheduled and confirmed by all committee members upon submission of the project proposal, no later than the 4th week in the Fall/Spring term or 3rd week of the Summer term.
+**Deadline**: Presentations are typically scheduled towards the end of the semester, before the finals week in Fall and Spring terms and mid-August in the Summer term. Project presentation must be scheduled and confirmed by all committee members upon submission of the project proposal, no later than the 4th week in the Fall/Spring term or 3rd week of the Summer term.
 
 Project presentation is announced to the Department community no later than one week before the scheduled presentation.
+
+**Oral Presentation Format**:
+The duration of the presentation is no longer than 30 minutes: 
+* 20-25 minutes slide presentation and brief demo (when appropriate)
+* followed by 5-10 minutes discussion. 
+This format is similar to a conference paper presentation. 
+
+**Slides Presentation Organization and Guidelines**:
+Presentation slides must be judiciously designed and include exactly 8 slides
+* 1 **title** slide (1 min)
+ * Has project title, author, project advisor, and Date
+ * You briefly describe the issue/problem the project addresses
+* 1**project objectives** slide (2 min)
+ * Has clearly stated and very specific objectives presented in a bulleted list
+ * You start with introducing  the goal of the project and why it is importnat
+ * Continue with presenting the objectives
+* 2 **approach/methodology** slides (5 min)
+ * Has tools, data sets, frameworks, techniques, and other resources needed to do the project work
+ * You explain how you did the project and how you achieve the project's objectives
+* 3 **results** slides (10 min)
+ * Has evidence of the project deliverables, components, and functionality
+ * You present and demonstrate what the project's artifacts are and what they accomplish
+* 1 **evaluation/discussion** slide (2 min)
+ * Has evaluation of the results
+ * You explain to what degree the project achieved its objectives, including limitatinos and constraints
+ 
+
+
+
+
