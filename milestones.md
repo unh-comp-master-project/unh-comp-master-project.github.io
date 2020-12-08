@@ -87,21 +87,21 @@ This format is similar to a conference paper presentation.
 **Slides Presentation Organization and Guidelines**:
 Presentation slides must be judiciously designed and include exactly 8 slides
 * 1 **title** slide (1 min)
- * Has project title, author, project advisor, and Date
- * You briefly describe the issue/problem the project addresses
+  * Has project title, author, project advisor, and Date
+  * You briefly describe the issue/problem the project addresses
 * 1**project objectives** slide (2 min)
- * Has clearly stated and very specific objectives presented in a bulleted list
- * You start with introducing  the goal of the project and why it is importnat
- * Continue with presenting the objectives
+  * Has clearly stated and very specific objectives presented in a bulleted list
+  * You start with introducing  the goal of the project and why it is importnat
+  * Continue with presenting the objectives
 * 2 **approach/methodology** slides (5 min)
- * Has tools, data sets, frameworks, techniques, and other resources needed to do the project work
- * You explain how you did the project and how you achieve the project's objectives
+  * Has tools, data sets, frameworks, techniques, and other resources needed to do the project work
+  * You explain how you did the project and how you achieve the project's objectives
 * 3 **results** slides (10 min)
- * Has evidence of the project deliverables, components, and functionality
- * You present and demonstrate what the project's artifacts are and what they accomplish
+  * Has evidence of the project deliverables, components, and functionality
+  * You present and demonstrate what the project's artifacts are and what they accomplish
 * 1 **evaluation/discussion** slide (2 min)
- * Has evaluation of the results
- * You explain to what degree the project achieved its objectives, including limitatinos and constraints
+  * Has evaluation of the results
+  * You explain to what degree the project achieved its objectives, including limitatinos and constraints
  
 
 
