@@ -15,4 +15,4 @@ Students who need to take time off for personal reasons may sign up for GRAD 800
 ### **Intent and Objectives**
 The intent of the Master&#39;s Project is for the student to apply the concepts, principles and practices they have learned to address an authentic problem of interest to them and their project advisor and conduct an investigative study in the Information Technology field. The specific approach to completing the requirements of the project depends on the nature of the project: computing system development, experimental research, or case study. Through the Master&#39;s Project, students may gain work experience in an industry setting, industry/university collaboration, or university research lab. The Master&#39;s project should have well-defined objectives or outcomes.
 
-The student demonstrates the outcomes of the project work by preparing a technical paper suitable for submission to a peer-review conference or technical journal.
+The student documents the outcomes of the project work by preparing a technical paper suitable for submission to a peer-review conference or technical journal.
