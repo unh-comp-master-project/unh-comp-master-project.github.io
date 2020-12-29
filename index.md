@@ -7,7 +7,7 @@ layout: page
 
 <h1>COMP 898 Master’s Project Course</h1>
 
-### M.S. Information Technology Program
-#### Applied Engineering and Sciences Department
+M.S. Information Technology Program <br>
+Applied Engineering and Sciences Department
 
 Guided project on a topic which has been approved as a suitable subject for a master's project. Supervision and advising by faculty in the Computing Technology program. Completion of 24 credits in the major.
