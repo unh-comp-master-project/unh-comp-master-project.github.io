@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<h1>Master’s Project Course/h1>
+<h1>Master’s Project Course</h1>
 
 M.S. Information Technology<br />
 Applied Engineering and Sciences Department
