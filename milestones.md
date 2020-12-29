@@ -4,7 +4,7 @@ title: Milestones
 permalink: /milestones
 ---
 
-### **Abstract**
+### Abstract
 
 Summarize in 250-300 words:
 
@@ -24,13 +24,13 @@ Guidelines
   * The student presents the very first draft of the abstract to the project advisor for review and comment no later than the 2nd week of the term (Fall, Spring, or Summer). 
 * Writing the abstract is an iterative process. There is a discovery component of the project work, which might cause unexpected "turns" in your project development journey. Regular abstract's revisions will capture changes or new directions your project work will take.
 
-### **Committee**
+### Committee
 
 It is the responsibility of the student to assemble a committee of experts who have agreed to serve on the committee. The project advisor can assist the student in establishing the committee. The committee consists of at three people who are well qualified to judge the technical merits of the project. At least two members of the committee are residential faculty in the Applied Engineering and Sciences Department, including the faculty who serves as project advisor.
 
-**Deadline**: The student communicates the committee's composition to the project advisor no later than the 4th week of the Fall or Spring term or 3nd week of the Summer term.
+**Deadline**: The student communicates the committee's composition to the project advisor and course instructor no later than the the end of the 2nd week week of the semester.
 
-### **Proposal**
+### Proposal
 
 This is a 4 - 6 page paper (not including title page and abstract) that elaborates on and includes:
 
@@ -59,19 +59,13 @@ This is a 4 - 6 page paper (not including title page and abstract) that elaborat
 
 **Deadline**: The student presents the project proposal to the project advisor for review and comment no later than the 4th week of the Fall or Spring term or the 3rd week of the Summer term.
 
-### **Mid-semester progress report**
-
-A progress report on the project work is due mid-semester to get feedback from the project advisor, resolve critical issues, finalize plans for project completion, and discuss any other conditions encountered during project work to date.
-
-**Deadline**: Mid-semester (7th week in the  Fall/Spring term or 5th week Summer term)
-
 ### **First draft of project paper**
 
 A first full draft of the project paper is presented to the project advisor for review and comment with sufficient time for revision prior to the project submission deadline.
 
 **Deadline**: No later than the 10th week of a Fall or Spring term or 7th week of a summer term.
 
-### **Project Presentation**
+### Project Presentation
 Projects must be presented to the Master&#39;s Project Committee. Project presentations are open to the public and announced to the department community. Project presentation announcement includes project title and author, presentation date, location, and abstract. Hard copies of the announcement are posted on the 1st floor. The Department emails the project presentation announcement to all graduate students and department faculty members.
 
 **Deadline**: Presentations are typically scheduled towards the end of the semester, before the finals week in Fall and Spring terms and mid-August in the Summer term. Project presentation must be scheduled and confirmed by all committee members upon submission of the project proposal, no later than the 4th week in the Fall/Spring term or 3rd week of the Summer term.
@@ -84,12 +78,12 @@ The duration of the presentation is no longer than 30 minutes:
 * followed by 5-10 minutes discussion. 
 This format is similar to a conference paper presentation. 
 
-**Slides Presentation Organization and Guidelines**:
+**Slides Organization and Guidelines**:
 Presentation slides must be judiciously designed and include exactly 8 slides
 * 1 **title** slide (1 min)
   * Has project title, author, project advisor, and Date
   * You briefly describe the issue/problem the project addresses
-* 1**project objectives** slide (2 min)
+* 1 **project objectives** slide (2 min)
   * Has clearly stated and very specific objectives presented in a bulleted list
   * You start with introducing  the goal of the project and why it is importnat
   * Continue with presenting the objectives
