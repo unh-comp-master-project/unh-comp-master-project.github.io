@@ -5,7 +5,7 @@
 layout: page
 ---
 
-## COMP 898 Master’s Project Course ##
+<h1>COMP 898 Master’s Project Course</h1>
 
 ### M.S. Information Technology Program
 #### Applied Engineering and Sciences Department
