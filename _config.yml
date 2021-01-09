@@ -43,7 +43,7 @@ header_pages:
  - work-products.md
  - timeline.md
  - resources.md
- - samples.md
+ #- samples.md
 
 # Build settings
 #theme: minima
