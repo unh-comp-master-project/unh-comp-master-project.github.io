@@ -4,18 +4,18 @@ title: Timeline
 permalink: /timeline/
 ---
 
-| **Week #** | **Milestone** |
+| **Week #** | **Project Activity** | **Thesis Activity** |
 | --- | --- |
-| Pre-Week 1 | Meet with project advisor and discuss possible topics |
-| Week 1 | Select topic. Get development tools ready. Set meeting schedule with project advisor. |
-| Week 2 | Have the project committee members confirmed.  |
-| Week 3 | Prepare outline of project goal, objectives, scope, outcomes (Feb 18, 2021)|
-| Week 6 | Submit first full draft of the project paper (March 11, 2021)|
-| Week 7 | Mid-semester check point with project advisor |
-| Week 13 | Submit "almost final" project paper (April 29, 2021) |
-| Week 14| Give project presentation (May 6 or 7, 2021) |
-| Post-Week 15| Complete project development work (Monday, May 17, 2021) |
-| | Submit final paper (Monday noon, May 24, 2021)
+| Pre-Week 1 (by Jan 29, 2021) | Meet with project advisor and discuss possible topics. If this is continuing research, review progress and plan project development milestones. Use Canvas, Overleaf, and GitHub for ongling communication.| If this is continuing research, review progress and plan thesis development milestones. Use Canvas, Overleaf and GitHub for ongoing communication. | 
+| Week 1 | Select topic. Get development tools ready. If this is continuting research, update Overleaf and GitHub with the latest project development. Set meetings schedule with project advisor. | Set meetings schedule with project advisor. Update Overleaf and GitHub with the latest thesis developments }
+| Week 2 | Have the project committee members confirmed. | Re-connect with project committee members and share schedule of dates when their input/participation is needed. | 
+| Week 3 | Prepare outline of project  over-arching goal, project work objectives and scope, and expected outcomes (Feb 18, 2021)| Prepare thesis completion plan with timeline and milestones in consultation with your advisor. Share plan with thesis committee. |
+| Week 6 (Marh 11, 2021) | Submit first full draft of the project paper| Submit first full draft of the thesis dissertation |
+| Week 7 | Mid-semester check point with project advisor | Mid-semester check point with thesis advisor |
+| Week 13 (April 29, 2021) | Submit "almost final" project paper (April 29, 2021) | Submit "alsmot final" disseratation  paper |
+| Week 14 May 6-7, 2021)| Give project presentation | Defend your thesis |
+| Post-Week 15 (May 17, 2020)| Complete project development work | Compoete thesis development work |
+| May 24, 2021| Submit final paper | Submit final thesis manuscript|
 
 <!--
 **Project Topic**
