@@ -5,78 +5,65 @@ permalink: /work-products/
 ---
 
 ### Project Paper/Thesis Manuscript
+
+#### Overleaf Project 
 Overleaf, a cloud-based collaborative authoring tool, is used to draft your 
 project paper/thesis manuscipt. The Computing Program has an Overleaf license 
-that has review and version control features. 
+that has review, track changes, and version control features. 
 
 Overleaf projects set up before the start of the semester are the places where 
-you'll draft your paper project/thesis manuscript, collaborate wtih course 
+you draft your paper project/thesis manuscript, collaborate wtih course 
 instructor and faculty advisor, get feedback and iteratively develop the final 
 version. 
 
 To get started:
-* Project paper
-  * Get the zip file that has the Overlearf project template you'll use to 
-  create your Overleaf project paper.
-* Thesis manuscript
-  * 
+* COMP 898/899
+  * Accept invite to the Overleaf project that has the starter files for 
+  your project paper or thesis manuscript
+* GRAD 900
+  * It means you already have an Overleaf project set up that has last 
+  semester's draft of your project paper/thesis manuscript.
 
-#### Formatting and Submission
-The project paper formatting uses the ACM conference paper LaTeX template. See Section 2. *Workflow and Templates* and subsection ***LaTeX Collaborative Authoring Tool on Overleaf Platform*** on [https://www.acm.org/publications/authors/submissions](https://www.acm.org/publications/authors/submissions). _ACM_ has partnered with [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt#.Wqz3xoJG36A), a  cloud-based, collaborative authoring tool, to provide an _ACM_ LaTeX authoring template. 
+#### Formatting
+Guidelines for formattting your thesis manuscript are maintained by the 
+Graduate School. See manual in UNH Box at <https://unh.app.box.com/v/thesis-manual>. 
 
-The content size of a 2-column six-page paper is equivalent to a 25-page, 
-double-spaced paper. 
+The project paper formatting uses the ACM conference paper LaTeX template. 
+_ACM_ has partnered with [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt#.Wqz3xoJG36A)to provide 
+an _ACM_ LaTeX authoring template. We have adapted the template and created an 
+Overleaf starter project to wchih you and your advisor have access. 
 
-The project paper will include, at a minimum, the normal elements associated with a research project:
+#### Iterative Development
 
-- Introduction
-- Project Objectives
-- Approach, Methods, Tools
-- Results
-- Evaluation and Discussion
-- Conclusions
 
-#### Outline
-
-#### First Full Draft
-
-A first full draft of the project paper is presented to the project advisor for review and comment with sufficient time for revision prior to the project submission deadline.
-
-**Deadline**: No later than the 10th week of a Fall or Spring term or 7th week of a summer term.
-
-#### "Almost Final" Draft
 
 ### Presentation
-Projects must be presented to the Master&#39;s Project Committee. Project presentations are open to the public and announced to the department community. Project presentation announcement includes project title and author, presentation date, location, and abstract. Hard copies of the announcement are posted on the 1st floor. The Department emails the project presentation announcement to all graduate students and department faculty members.
+Master's projects and theses are presented to Master's Project Committee. 
+Presentations are open to the public and announced to the department community. 
+A presentation announcement includes project/thesis title and author, 
+presentation date, location, and abstract. Copies of the announcement are posted 
+on the 1st floor and communicated via email to all graduate students and 
+department faculty members.
 
-**Deadline**: Presentations are typically scheduled towards the end of the semester, before the finals week in Fall and Spring terms and mid-August in the Summer term. Project presentation must be scheduled and confirmed by all committee members upon submission of the project proposal, no later than the 4th week in the Fall/Spring term or 3rd week of the Summer term.
+Presentations are scheduled in the 2nd to last week of the semester. 
+Presentations' schedule is communicated to the committee 
+members by the course instructor. 
 
-Project presentation is announced to the Department community no later than one week before the scheduled presentation.
-
-**Oral Presentation Format**:
-The duration of the presentation is no longer than 30 minutes:
+#### Project Presentation Format
+The duration of the project presentation is no longer than 30 minutes:
 * 20-25 minutes slide presentation and brief demo (when appropriate)
 * followed by 5-10 minutes discussion.
-This format is similar to a conference paper presentation.
 
-**Slides Organization and Guidelines**:
+#### Slides Organization and Guidelines
 Presentation slides must be judiciously designed and include exactly 8 slides
-* 1 **title** slide (1 min)
-  * Has project title, author, project advisor, and Date
-  * You briefly describe the issue/problem the project addresses
-* 1 **project objectives** slide (2 min)
-  * Has clearly stated and very specific objectives presented in a bulleted list
-  * You start with introducing  the goal of the project and why it is importnat
-  * Continue with presenting the objectives
-* 2 **approach/methodology** slides (5 min)
-  * Has tools, data sets, frameworks, techniques, and other resources needed to do the project work
-  * You explain how you did the project and how you achieve the project's objectives
-* 3 **results** slides (10 min)
-  * Has evidence of the project deliverables, components, and functionality
-  * You present and demonstrate what the project's artifacts are and what they accomplish
-* 1 **evaluation/discussion** slide (2 min)
-  * Has evaluation of the results
-  * You explain to what degree the project achieved its objectives, including limitatinos and constraints
+
+| Slide(s) | Number | Duration | Content |
+|---|---|---|---|
+| title | 1 | 1 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
+| aims | 1 | 2 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
+| approach | 2-3  | 5 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
+| results | 3-4 | 10 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
+| evaluation | 1 | 2 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatinos and constraints. |
 
 <!--
 ### Abstract
