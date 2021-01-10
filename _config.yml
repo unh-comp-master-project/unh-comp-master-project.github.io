@@ -1,9 +1,8 @@
 masthead: /unh_logo.png
-title: Master's Project
+title: Master's Project/Thesis
 email: mihaela.sabin@unh.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is the website of UNH Manchester Master's Project course
-  for computing students.
+  COMP 898/899 Master's Project/Thesis course requirements
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -40,9 +39,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - overview.md
- - work-products.md
- - timeline.md
+ - weekly-schedule.md
  - resources.md
+ - work-products.md
  #- samples.md
 
 # Build settings
