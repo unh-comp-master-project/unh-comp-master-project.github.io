@@ -10,11 +10,12 @@ project development activities and artifacts
 * Overleaf platform helps you with project paper/thesis writing activities
 * LaTeX typesetting to write your project paper/thesis manuscript
 * Discord server associated with this course is a convenient space where we 
-communicate (text and talk)
+communicate (text. talk, video)
 * Canvas has Turnitin tool that performs a similarity check between your draft 
 submissions and internet materials. You will upload PDF versions of your drafts 
 to Canvas on Feb 18, Mar 11, and Apr 29 to get similarity check reports. 
 
+<!--
 ### GitHub ###
 A remote repo named `lastname-firstname` (using your last name and first name) 
 that has an empty README.md file is the starting point for managing the 
@@ -29,6 +30,7 @@ an invite to become the remote repo maintainers.
 ### Overleaf ###
 
 ### Discord ###
+-->
 
 ### Useful Readings ###
 Serge Demeyer. 2011. [Research methods in Computer Science tutorial](https://unh.box.com/s/ubanos64ju4emwsh7m8ab8l5auedi2ub). IEEE International Conference on Software Maintenance.

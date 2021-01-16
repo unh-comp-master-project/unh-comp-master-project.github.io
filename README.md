@@ -7,6 +7,7 @@ bundle exec jekyll serve
 
 Local directory for the GtiHub Pages web site:
 `/Users/mcs/master-projects-theses/unh-comp-master-project.github.io`
+Local port: localhost:4000
 
 Currently installed: ruby, bunlder, rbenv
 ```
