@@ -28,3 +28,14 @@ project credits. As this grants full-time status, students are also responsible
 for the full time mandatory fees. Effective Fall 2020, GRAD 900 may be taken 
 only once. However, students who need to repeat this registration may do so 
 with permission. Not Graded.
+
+#### Course Instructor
+Mihaela Sabin, Ph.D.
+Professor of Computer Science
+
+#### Project/Thesis Advisors
+* Tim Chadwick, M.D.
+* Karen Jin, Ph.D.
+* Jeremiah Johnson, Ph.D.
+* Mike Jonas, Ph.D.
+* Mihaela Sabin, Ph.D.

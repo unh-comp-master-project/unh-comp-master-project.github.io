@@ -3,7 +3,23 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-The following platforms and tools support your project/thesis work: 
+### Communication and Collaboration
+Because of the highly collaborative nature of the course, we’ll be using a variety of online tools that support collaboration, sharing, and openness. 
+* Canvas site has
+    * course syllabus
+    * learning modules and assignments
+    * announcements and links to the Discord server, course public web site, 
+    and GitHub org with project repos; 
+    * Zoom meetings, gradebook, and classmates list.
+* Discord server used for messaging in and outside class with channels on 
+various subjects. 
+* GitHub oranization associated with this course has student project 
+repositories
+* Public web site at <https://unh-comp-master-project.github.io/>
+* Overleaf platform hosts your project paper/thesis manuscript writing 
+artifacts.
+
+<!--The following platforms and tools support your project/thesis work: 
 * GitHub organization associated with this course helps you manage all the 
 project development activities and artifacts
 * `git` version control and branch-feature workflow
@@ -14,23 +30,32 @@ communicate (text. talk, video)
 * Canvas has Turnitin tool that performs a similarity check between your draft 
 submissions and internet materials. You will upload PDF versions of your drafts 
 to Canvas on Feb 18, Mar 11, and Apr 29 to get similarity check reports. 
-
-<!--
-### GitHub ###
-A remote repo named `lastname-firstname` (using your last name and first name) 
-that has an empty README.md file is the starting point for managing the 
-development of your project and timely communication with your project advisor 
-about your progress. 
-* A tech consultant will set up the remote repo before the start of the 
-semester, ask for your GitHub user name, and send you and your project advisor 
-an invite to become the remote repo maintainers.
-* Clone the remote repo on your machine in the root folder of your project
-    * Use `git` version control for all 
-
-### Overleaf ###
-
-### Discord ###
 -->
+
+### Center for Academic Enrichment
+Tutors in the **Center for Academic Enrichment (CAE)** are well-prepared to 
+assist with drafting and writing your project paper or thesis manuscript. 
+Please make use of one-on-one tutoring sessions. Contact Emily Kerr at <emily.kerr@unh.edu> for more information. 
+
+### Student Tech Assistants
+The **Computing  Program** in the **Department of Applied Engineering and Sciences** has student tech assistants who are available to help with software 
+configuration and other technical questions you might have. 
+
+### Development Tools
+Your personal laptop (or the laptop loaned from the department) is the 
+development platform for all the learning activities in this class. 
+Development tools you need to have on your machine installed at the 
+global/system level are:
+* **bash** shell or terminal (MacOS or Ubuntu)  or gitb-bash (Windows)
+* **git** version control
+* program **editor** (e.g. Atom) or **IDE** (e.g Visual Studio Code)
+* **debugger** (integrated with the editor or IDE)
+* **LaTeX** typesetting system
+* **static code analysi**s** tools (e.g. pylint and pycodestyle for Python)
+
+If you code in Python, use 
+* **pyenv** utility to manage your Python installations
+* **pipenv** or **conda** for package and environment management 
 
 ### Useful Readings ###
 Serge Demeyer. 2011. [Research methods in Computer Science tutorial](https://unh.box.com/s/ubanos64ju4emwsh7m8ab8l5auedi2ub). IEEE International Conference on Software Maintenance.

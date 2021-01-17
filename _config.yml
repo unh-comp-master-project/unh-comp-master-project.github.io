@@ -38,9 +38,11 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - overview.md
- - weekly-schedule.md
+ - competencies.md
+ - advising-and-support.md
+ - learning-activities.md
  - resources.md
+ - weekly-schedule.md
  - work-products.md
  #- samples.md
 
