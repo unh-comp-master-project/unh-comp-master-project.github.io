@@ -44,7 +44,6 @@ header_pages:
  - resources.md
  - weekly-schedule.md
  - work-products.md
- #- samples.md
 
 # Build settings
 #theme: minima

@@ -22,20 +22,25 @@ experience, and computing professional identity
 * regular interactions with and feedback from your faculty advisor and course 
 instructor.
 
+### Class Communication (priceless)
+Discord platform and channels are used for general or topic-focused 
+discussions (texting, voice,  and video chat) among all class members. 
+
+### Reflections (5%)
+These reflections include:
+* three 20-minute writing activities spread out during the semester and 
+* answering a 30-min questionnaire towards the end of the semester. 
+
+You will reflect on your affective and cognitive well-being, academic commitment, openness to experience, and your computing professional identity. 
+
+These reflections will include a best possible self (BPS) learning activity, which has been shown to facilitate a positive relationship between well-being and academic achievement. By thinking and writing about your best possible self, you can learn about yourself, what you want in life, and how to restructure your priorities. It can also help you increase your sense of control over your life by highlighting what you need to do to achieve your goals. 
+
 ### Class Meetings (10%)
 The course semester has 15 weeks with five 2-hour scheduled class meetings. 
 These class meetings are structured to create a learning environment 
 supportive of your project work. Your responsibility is to be on time, 
 participate in class discussion, share your progress, give feedback, ask 
 questions, and reflect on your learning and project work. 
-
-### Reflections (5%)
-To be written.
-
-### Class Communication (priceless)
-Discord platform and course-specific channels are used for general or 
-category-focused discussions (texting, voice,  and video chat) among all class 
-members. 
 
 ### Writing Artifacts (15%)
 Writing and revising drafts of your project paper or thesis manuscript is an 
