@@ -3,7 +3,8 @@ layout: page
 title: Learning Activities
 permalink: /learning-activities/
 ---
-Learning in this course depends on reflective practice and open collaboration. 
+Learning in this course depends on **reflective practice**, 
+**open collaboration**, and **support and respect** for one another.
 To develop professional competencies through project work, you will engage in 
 a variety of learning activities with peers, course instructor, and faculty 
 advisor. 
@@ -23,17 +24,26 @@ experience, and computing professional identity
 instructor.
 
 ### Class Communication (priceless)
-Discord platform and channels are used for general or topic-focused 
+**Discord** platform and channels are used for general or topic-focused 
 discussions (texting, voice,  and video chat) among all class members. 
+**Zoom** sessions are used for the scheduled class meetings. Use, discover, 
+and share tools that these platforms have to maximize the effectiveness of our 
+communication. 
 
 ### Reflections (5%)
-These reflections include:
-* three 20-minute writing activities spread out during the semester and 
-* answering a 30-min questionnaire towards the end of the semester. 
+There will be four learning activities during the semester in which you will 
+reflect on your affective and cognitive well-being, academic commitment, 
+openness to experience, and your computing professional identity. These 
+activities are scheduled in weeks #2, #5, #12, and #15. 
 
-You will reflect on your affective and cognitive well-being, academic commitment, openness to experience, and your computing professional identity. 
-
-These reflections will include a best possible self (BPS) learning activity, which has been shown to facilitate a positive relationship between well-being and academic achievement. By thinking and writing about your best possible self, you can learn about yourself, what you want in life, and how to restructure your priorities. It can also help you increase your sense of control over your life by highlighting what you need to do to achieve your goals. 
+The first three reflections will also include a short 20-minute writing 
+session. Known as the **best possible self**, this kind of reflection has been 
+shown to facilitate a positive relationship between the learner's well-being 
+and their academic achievement. By thinking and writing about your best 
+possible self, you learn about yourself, what you want in life, and how to 
+restructure your priorities. It can also help you increase your sense of 
+control over your life by highlighting what you need to do to achieve your 
+goals.  
 
 ### Class Meetings (10%)
 The course semester has 15 weeks with five 2-hour scheduled class meetings. 
@@ -49,7 +59,7 @@ iterative process with three milestones:
 * First draft (5%), March 11, midnight
 * Almost final draft (5%), April 29, midnight. 
 
-You'll develop these drafts using the Overleaf platform and the Overleaf 
+You'll develop these drafts using the **Overleaf** platform and the Overleaf 
 project set up for your project paper/thesis manuscript. The Overleaf project 
 will be shared with your faculty advisor for easy communication and 
 collaboration. The course instructor will guide you through this writing 
@@ -57,8 +67,7 @@ process and evaluate the three instances of drafting your project paper/thesis
 manuscript. 
 
 ### Work Progress (10%)
-Weekly progress outlines (or reports) using GitHub org associated with this 
-course (or other means) will help you plan your work, prepare for your 
+Weekly progress outlines using **GitHub Kanban** project board and cards (and other means)  will help you plan your work, prepare for your 
 meetings with your faculty advisor, and manage project development activities. 
 Your faculty advisor will assess your work progress.
 
@@ -72,9 +81,9 @@ email to all graduate students and department faculty members. Committee
 members will consult on their evaluation of your presentation.
 
 ### Computing Artifacts (25%)
-The GitHub org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis 
+The **GitHub** org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis 
 computing artifacts you develop and manage using GitHub platform tools (e.g., 
-Kanban project board, issue tracker) and git feature branch workflow. Your 
+Kanban project board, issue tracker) and **git feature branch workflow**. Your 
 faculty advisor will evaluate this component of your project. 
 
 ### Project Paper/Thesis Manuscript (30%)

@@ -5,18 +5,19 @@ permalink: /resources/
 ---
 ### Communication and Collaboration
 Because of the highly collaborative nature of the course, we’ll be using a variety of online tools that support collaboration, sharing, and openness. 
-* Canvas site has
+* **Zoom** sessions for the scheduled class meeting.
+* **Canvas** site has
     * course syllabus
     * learning modules and assignments
     * announcements and links to the Discord server, course public web site, 
     and GitHub org with project repos; 
     * Zoom meetings, gradebook, and classmates list.
-* Discord server used for messaging in and outside class with channels on 
+* **Discord** server used for messaging in and outside class with channels on 
 various subjects. 
-* GitHub oranization associated with this course has student project 
+* **GitHub** oranization associated with this course has student project 
 repositories
 * Public web site at <https://unh-comp-master-project.github.io/>
-* Overleaf platform hosts your project paper/thesis manuscript writing 
+* **Overleaf** platform hosts your project paper/thesis manuscript writing 
 artifacts.
 
 <!--The following platforms and tools support your project/thesis work: 
@@ -36,6 +37,9 @@ to Canvas on Feb 18, Mar 11, and Apr 29 to get similarity check reports.
 Tutors in the **Center for Academic Enrichment (CAE)** are well-prepared to 
 assist with drafting and writing your project paper or thesis manuscript. 
 Please make use of one-on-one tutoring sessions. Contact Emily Kerr at <emily.kerr@unh.edu> for more information. 
+
+### Library Services
+...
 
 ### Student Tech Assistants
 The **Computing  Program** in the **Department of Applied Engineering and Sciences** has student tech assistants who are available to help with software 

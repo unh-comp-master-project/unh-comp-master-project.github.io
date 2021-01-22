@@ -32,8 +32,8 @@ research skills and plan on pursuing a Ph.D. or seek a career in research.
 instructor, and project/thesis committee members
 * Demonstrate professional responsibility in all project activities and make 
 informed judgments based on legal and ethical principles
-* Function effectively as a member of this class
-* Reflect on your learning experiences
+* Participate and contribute effectively as a member of this class
+* Reflect on your learning experiences and your best possible self
 * Persist in working with difficult problems
 * Adapt, adjust, change course, be flexible as needed
 * Tolerate uncertainty and ambiguity
