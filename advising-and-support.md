@@ -4,28 +4,29 @@ title: Advising and Support
 permalink: /advising-and-support/
 ---
 You will register in the **COMP 898  Master's Project** course or 
-**COMP 899 Master's Thesis** by selecting the course section that has your 
-advisor listed as course instructor or co-instructor.
+**COMP 899 Master's Thesis** or **GRAD 900 Continuing Research** by selecting 
+the course section that lists your project/thesis faculty advisor.
 
 ### Course Instructor
 The course instructor is responsible for helping you:
 * Engage with peers in the project/thesis work process through five scheduled 
 class meetings that coincide with important project/thesis milestones
 * Write the project paper or thesis manuscript iteratively, from one-page 
-outline to the first full draft and then "almost final" draft, to produce the 
-project paper or thesis manuscript final version
+outline to the first full draft and to the "almost final" draft
+* Reflect on your work and on your **best possible self** to learn about yourself, how to restructure your priorities, and how to increase your sense 
+of control over your life to achieve your personal and professional goals.
 * Use effective tools to support the test-driven and incremental process of:
-    * managing your project/thesis work activities using the GitHub Kanban 
-    project board and
+    * managing your project/thesis work activities using the 
+    **GitHub Kanban project board** and
     * progressively documenting your work while drafting the project paper or 
-    thesis manuscript using the Overleaf platform
+    thesis manuscript using the **Overleaf** platform
 * present your project or thesis to peers, committee members, and other guests 
 in the second to last week of the term.
 
 ### Faculty Advisor
 The faculty advisor is responsible for helping you:
-* Define the goal, objectives, scope, and outcomes of your project/thesis
 * Select your project/thesis committee
+* Define the goal, objectives, scope, and outcomes of your project/thesis
 * Identify and use appropriate methods and tools
 * Meet regularly to give you prompt feedback
 * Review project/thesis artifacts and project paper/thesis drafts and final 

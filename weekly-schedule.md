@@ -8,8 +8,8 @@ permalink: /weekly-schedule/
 
 | **Week #** | **Project Activity** | **Thesis Activity** |
 | --- | --- |
-| [Pre-Week 1](#pre-week-1) (by Jan 29, 2021) | Meet with project advisor and discuss possible topics. If this is continuing research, review progress and plan project development milestones. Use Canvas, Overleaf, and GitHub for ongoing communication.| If this is continuing research, review progress and plan thesis development milestones. Use Canvas, Overleaf and GitHub for ongoing communication. | 
-| [Week 1](#week-1) | Select topic. Get development tools ready. If this is continuting research, update Overleaf and GitHub with the latest project development. Set meetings schedule with project advisor. | Set meetings schedule with project advisor. Update Overleaf and GitHub with the latest thesis developments }
+| [Pre-Week 1](#pre-week-1) (by Jan 29, 2021) | Meet with project advisor,  discuss possible topics, and  schedule for regular mdetermineeetings. If this is continuing research, review progress and plan project development milestones. Use Canvas, Overleaf, and GitHub for ongoing communication.| If this is continuing research, review progress, plan thesis development milestones, and determine schedule for regular meetings. Use Canvas, Overleaf and GitHub for ongoing communication. | 
+| [Week 1](#week-1) | Finalize topic. Get tools and services ready, and confiure your laptop as a development machine. If this is continuting research, update Overleaf and GitHub with the latest project development.| Review and upgrade (if ncessary) tools and services on your development machine. Update Overleaf and GitHub with the latest thesis developments |
 | [Week 2](#week-2) | Have the project committee members confirmed. | Re-connect with project committee members and share schedule of dates when their input/participation is needed. | 
 | [Week 3](#week-3) (Feb 18) | Prepare outline of project  over-arching goal, project work objectives and scope, and expected outcomes | Prepare thesis completion plan with timeline and milestones in consultation with your advisor. Share plan with thesis committee. |
 | [Week 6](#week-6) (Mar 11) | Submit first full draft of the project paper| Submit first full draft of the thesis dissertation |
@@ -18,6 +18,10 @@ permalink: /weekly-schedule/
 | [Week 14](#week-14) (May 6-7)| Give project presentation | Defend your thesis |
 | [Post-Week 15](#post-week-15)| May 17: Complete project development work | May 17: Compoete thesis development work |
 |  | May 24: Submit final paper | May 24: Submit final thesis manuscript|
+
+**Note** Each week starts Saturday and ends Friday noon. For weeks when we 
+have class meetings scheduled, you must have the assigned work completed 
+Thursday midnight. 
 
 ### Weekly Activities
 #### Pre-Week 1
