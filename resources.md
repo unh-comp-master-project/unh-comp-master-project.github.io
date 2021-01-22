@@ -39,7 +39,7 @@ assist with drafting and writing your project paper or thesis manuscript.
 Please make use of one-on-one tutoring sessions. Contact Emily Kerr at <emily.kerr@unh.edu> for more information. 
 
 ### Library Services
-...
+The UNH Manchester librarians are available to assist you with your research. You can contact a librarian by calling 603-641-4173 or by emailing unhm.library@unh.edu. 
 
 ### Student Tech Assistants
 The **Computing  Program** in the **Department of Applied Engineering and Sciences** has student tech assistants who are available to help with software 
