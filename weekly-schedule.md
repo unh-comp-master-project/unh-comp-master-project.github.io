@@ -44,7 +44,7 @@ in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH
         [Configuring automation for project boards](https://github.community/t/using-project-boards-for-task-management/10201)
         * Practice the use of GitHub project board by creating a note card in 
         the `To-Do` column, named `advisor meeting mm-dd-yyyy`, and then 
-        moving it to `Done` after the meeting
+        moving it to `Done` after the meeting with your faculty advisor.
 * **Overleaf platform project** 
     * Deadline: **Jan 27, 2021** Verify that your access to an Overleaf 
     project set up to contain your project paper or thesis manuscript materials 
