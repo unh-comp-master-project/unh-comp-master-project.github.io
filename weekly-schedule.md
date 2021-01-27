@@ -26,26 +26,57 @@ Thursday midnight.
 ### Weekly Activities
 #### Pre-Week 1
 There is important preparation you are responsible for before the first class 
-in Week 1. 
-* Verify that you have access to the GitHub remote repo, Overleaf platform, 
-and Discord
-    * Review documentation on how to use [GitHub project board, issues, and 
-    pullrequests](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github) to manage all your project development 
-    activities
+in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH 
+    Overleaf subscription, or you are not on the Master's Project/Thesis 
+    Discord server, email Mihaela.
+* **GitHub remote repo**
+    * Deadline: **Jan 27, 2021** Verify that you have access to the GitHub 
+    remote repo
+        * If you don't have access, you'll recieve an email to tell us your 
+        GitHub user name. You'll then get an email invitatoin to get access to 
+        an empty remote repo hosted by the GitHub org associated with this course. 
+    * The name of your GitHub remote repo has your lastname-firstname name
+    * Deadline **Feb 4, 2021**: Review documentation on how to use 
+    [GitHub project board, issues, and pullrequests](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github) to manage all your project 
+    development activities
         * Make sure you've created a project board for your remote repo
         * Set the GitHub project template to "automated Kanban". See 
         [Configuring automation for project boards](https://github.community/t/using-project-boards-for-task-management/10201)
-    * Become familiar with [Overleaf and LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
-    * If you don't have a GitHub remote repo or Overleaf account on the UNH 
-    Overleaf subscription, or you are not on the Master's Project/Thesis 
-    Discord server, email Mihaela.
-* Meet with your advisor to determine topic, or assess your progress with the 
-project at the end of the previous semester.
-    * Go to the meeting prepared: have a list of questions ready in a 
-    notebook (hard copy or digital file), which you'll use to take notes 
-* Practice the use of GitHub project board by creating a note card in the 
-`To-Do` column, named `advisor meeting mm-dd-yyyy`, and then moving it to 
-`Done` after the meeting
+        * Practice the use of GitHub project board by creating a note card in 
+        the `To-Do` column, named `advisor meeting mm-dd-yyyy`, and then 
+        moving it to `Done` after the meeting
+* **Overleaf platform project** 
+    * Deadline: **Jan 27, 2021** Verify that your access to an Overleaf 
+    project set up to contain your project paper or thesis manuscript materials 
+        * If you don't have access to an Overleaf project, check your email 
+        for an invite to get editing permission to the project. 
+    * The name of your Overleaf project is 2021-spring Lastname, Firstname.
+    * Deadline: **Feb 4, 2021** Become familiar with 
+    [Overleaf and LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) 
+
+* **Meeting with your advisor**
+    * Deadline: **Jan 29, 2021** Sschedule a meeting with your project/thesis 
+    adivor
+    * **Meeting agenda**
+        * Discuss the project topic, overarching goal, and outcomes. If this 
+        is continuing research, review progress and plan project development 
+        milestones.
+        * Record meeting discussion.
+        * Be prepared to take notes during the meeting so you have a record of 
+        the meeting discussion. 
+        * Schedule regular meetings with your faculty advisor for the rest of 
+        the semester
+        * Determine the ACM computing codes that best characterize the 
+        computing area of your project.
+    * **Outputs** (Deadline: **Feb 4, 2021**)
+        * Meeting notes
+        * Meting schedule for the regular semester meetings with your advisor
+        * ACM computing codes associated with your project
+
+* **Join Discord**
+    * Deadline **Jan 27, 2021**: Join by going to the link in Canvas 
+    (Module Getting Ready, Discord page)
+        * Change your user name to your first name
 
 Go to the top of [Timeline](#timeline)
 
