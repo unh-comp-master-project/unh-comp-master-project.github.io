@@ -66,13 +66,15 @@ in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH
         the meeting discussion. 
         * Schedule regular meetings with your faculty advisor for the rest of 
         the semester
-        * Determine the ACM computing codes that best characterize the 
-        computing area of your project.
+        * Determine the [ACM Computing Classification](https://dl.acm.org/ccs) 
+        codes that best characterize the computing area of your project.
     * **Outputs** (Deadline: **Feb 4, 2021**)
         * Meeting notes
         * Meting schedule for the regular semester meetings with your advisor
-        * ACM computing codes associated with your project
-
+        * Selection of the [ACM Computing Classification](https://dl.acm.org/ccs) 
+        codes associated with your project (not applicable to thesis projects)
+            * See video in Canvas, select codes appropriate to your project, 
+            generate the TeX code, and insert it in the `driver.tex` file in Overleaf
 * **Join Discord**
     * Deadline **Jan 27, 2021**: Join by going to the link in Canvas 
     (Module Getting Ready, Discord page)
