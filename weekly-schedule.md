@@ -83,6 +83,21 @@ in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH
 Go to the top of [Timeline](#timeline)
 
 #### Week 1
+* Feb 5 class agenda
+    * Who we are
+        * students, guests, learning assistant, course instructor
+    * Syllabus tour
+    * Learning in this course
+        * how, with whom, what
+        * desirable professional competencies
+    * Overview of computing areas of R8D
+    * R&D strategies for the project work
+    * Next steps
+
+* Reflection 1: due next Thursday, **Feb 12**
+* R&D outline draft: due in two weeks, Thursday, **Feb 18**
+
+Go to the top of [Timeline](#timeline)
 
 #### Week 2
 
