@@ -19,6 +19,7 @@ repositories
 * Public web site at <https://unh-comp-master-project.github.io/>
 * **Overleaf** platform hosts your project paper/thesis manuscript writing 
 artifacts.
+* **Qualtrics** has prompts for the reflection activities
 
 <!--The following platforms and tools support your project/thesis work: 
 * GitHub organization associated with this course helps you manage all the 
@@ -50,11 +51,10 @@ Your personal laptop (or the laptop loaned from the department) is the
 development platform for all the learning activities in this class. 
 Development tools you need to have on your machine installed at the 
 global/system level are:
-* **bash** shell or terminal (MacOS or Ubuntu)  or gitb-bash (Windows)
+* **bash shell**: terminal on MacOS or Ubuntu, or git-bash on Windows
 * **git** version control
 * program **editor** (e.g. Atom) or **IDE** (e.g Visual Studio Code)
 * **debugger** (integrated with the editor or IDE)
-* **LaTeX** typesetting system
 * **static code analysi**s** tools (e.g. pylint and pycodestyle for Python)
 
 If you code in Python, use 
