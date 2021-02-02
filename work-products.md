@@ -4,6 +4,46 @@ title: Work Products
 permalink: /work-products/
 ---
 
+[Project Work Outline](#project-work-outline)
+
+[Project Paper/Thesis Manuscript](#project-paper/thesis-manuscript)
+
+[Presentation](#presentation)
+
+### Project Work Outline
+In one page draft the outline of your project wrok. Organize your outline in five sections. In each section address the questinos below. 
+
+1. What do you plan to investigate? What's the object of your investigation? 
+2. What will you investigate? What is the overarching goal of the project? 
+What objectives do you plan to accomplish in order to meet the overall goal?
+3. How do you plan to carry out the project work? What are the milestones and artifacts of the development process? What methods, tools, and/or data sets 
+will you use? 
+4. What result do you expect your project work to produce?
+5. How will you evaluate the result?
+
+You'll need to come up with suggestive names for the section titles. 
+
+Some Guidelines
+
+* The outline is written in paragraph form.
+* The sections are appropriately balanced size-wise. For excample, the first 
+two sections cannot be more than half of the outline. 
+* The section you might be more comfortable starting with is section #3. This is because you might have a clearer idea of the work you want to do. 
+* The section that give me the most trouble is section #2. To clearly 
+and accurately articulate the actual objectives of the project work, we need 
+to have a good understanding of 
+  * what we want do (section #1) and 
+  * how we want to do it (section #3)
+* Envisioning the result of our project work (section #4) will also help with 
+drafting better objectives (section #2)
+* Writing the outline is an iterative process. Don't try to write it in one
+writing session. 
+
+Keep in mind that most likely there will be discovery component in your project 
+work. It might cause unexpected the development process. Regular outline's revisions will capture those changes or new directions and will help with 
+preparing the first full draft of your project paper. 
+
+
 ### Project Paper/Thesis Manuscript
 
 #### Overleaf Project 
@@ -36,7 +76,6 @@ Overleaf starter project to wchih you and your advisor have access.
 #### Iterative Development
 
 
-
 ### Presentation
 Master's projects and theses are presented to Master's Project Committee. 
 Presentations are open to the public and announced to the department community. 
@@ -66,26 +105,6 @@ Presentation slides must be judiciously designed and include exactly 8 slides
 | evaluation | 1 | 2 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatinos and constraints. |
 
 <!--
-### Abstract
-
-Summarize in 250-300 words:
-
-1. Problem, situation, or issue that the project will address and why it is important
-2. Objectives or what the project will accomplish
-3. Approach of the research and development process, including tools, data sets, architectural approach, or methods used to do the project
-4. Results as evidence of the success of the project work
-5. Evaluation or interpretation of the results and concluding remarks.
-
-Guidelines
-
-* The abstract is written in paragraph form with no itemized list or literature references.
-* All five items are appropriately balanced size-wise. The first two items must be less than half of the abstract size.
-* When preparing the very first draft, items 4 and 5 describe what you expect, since the work has just started.
-* The value of the abstract, in all its iterations, is to be the ***map*** that guides your weekly project tasks.
-* **First Draft Deadline**
-  * The student presents the very first draft of the abstract to the project advisor for review and comment no later than the 2nd week of the term (Fall, Spring, or Summer).
-* Writing the abstract is an iterative process. There is a discovery component of the project work, which might cause unexpected "turns" in your project development journey. Regular abstract's revisions will capture changes or new directions your project work will take.
-
 ### Proposal
 
 This is a 4 - 6 page paper (not including title page and abstract) that elaborates on and includes:
