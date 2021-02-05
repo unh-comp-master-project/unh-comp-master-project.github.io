@@ -13,9 +13,9 @@ permalink: /work-products/
 ### Project Work Outline
 In one page draft the outline of your project wrok. Organize your outline in five sections. In each section address the questinos below. 
 
-1. What do you plan to investigate? What's the object of your investigation? 
-2. What will you investigate? What is the overarching goal of the project? 
-What objectives do you plan to accomplish in order to meet the overall goal?
+1. What will you investigate? What is the overarching goal of the project? 
+2. What objectives will you need to accomplish in order to meet the overall 
+goal?
 3. How do you plan to carry out the project work? What are the milestones and artifacts of the development process? What methods, tools, and/or data sets 
 will you use? 
 4. What result do you expect your project work to produce?
@@ -28,8 +28,8 @@ Some Guidelines
 * The outline is written in paragraph form.
 * The sections are appropriately balanced size-wise. For excample, the first 
 two sections cannot be more than half of the outline. 
-* The section you might be more comfortable starting with is section #3. This is because you might have a clearer idea of the work you want to do. 
-* The section that give me the most trouble is section #2. To clearly 
+* The section you might be most comfortable to start with is section #3. This is because you might have a clearer idea of the work you want to do. 
+* The section that gives me the most trouble is section #2. To clearly 
 and accurately articulate the actual objectives of the project work, we need 
 to have a good understanding of 
   * what we want do (section #1) and 
@@ -39,9 +39,11 @@ drafting better objectives (section #2)
 * Writing the outline is an iterative process. Don't try to write it in one
 writing session. 
 
-Keep in mind that most likely there will be discovery component in your project 
-work. It might cause unexpected the development process. Regular outline's revisions will capture those changes or new directions and will help with 
-preparing the first full draft of your project paper. 
+Keep in mind that most likely there will be a discovery component in your 
+project work. It might cause unexpected turns in the development process. 
+Regular revisions of the project outline will capture those changes or new 
+directions and will help you with preparing the first full draft of your 
+project paper.
 
 
 ### Project Paper/Thesis Manuscript
