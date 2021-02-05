@@ -11,7 +11,9 @@ permalink: /work-products/
 [Presentation](#presentation)
 
 ### Project Work Outline
-In one page draft the outline of your project wrok. Organize your outline in five sections. In each section address the questinos below. 
+#### Organization
+Draft the outline of your project work. Organize your outline in five sections.
+Limit the size of the outline to one page. In each section address the questions below. 
 
 1. What will you investigate? What is the overarching goal of the project? 
 2. What objectives will you need to accomplish in order to meet the overall 
@@ -23,7 +25,7 @@ will you use?
 
 You'll need to come up with suggestive names for the section titles. 
 
-Some Guidelines
+#### Some Guidelines
 
 * The outline is written in paragraph form.
 * The sections are appropriately balanced size-wise. For excample, the first 
