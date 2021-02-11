@@ -12,9 +12,12 @@ permalink: /work-products/
 
 ### Project Work Outline
 #### Organization
-Draft the outline of your project work. Organize your outline in five sections.
-Limit the size of the outline to one page. In each section address the questions below. 
+Draft the outline of your project work. The content of the outline is organized 
+in sections (in the master's project paper) or chapters (in the master's thesis 
+manuscript). Limit the overal size of the outline to 1-3 paragraphs per 
+section (or chapter). 
 
+In each section (or chapter) address the questions below. 
 1. What will you investigate? What is the overarching goal of the project? 
 2. What objectives will you need to accomplish in order to meet the overall 
 goal?
@@ -23,21 +26,24 @@ will you use?
 4. What result do you expect your project work to produce?
 5. How will you evaluate the result?
 
-You'll need to come up with suggestive names for the section titles. 
+You'll need to come up with suggestive names for the section/chapter titles. 
 
 #### Some Guidelines
 
 * The outline is written in paragraph form.
-* The sections are appropriately balanced size-wise. For excample, the first 
-two sections cannot be more than half of the outline. 
-* The section you might be most comfortable to start with is section #3. This is because you might have a clearer idea of the work you want to do. 
-* The section that gives me the most trouble is section #2. To clearly 
-and accurately articulate the actual objectives of the project work, we need 
-to have a good understanding of 
-  * what we want do (section #1) and 
-  * how we want to do it (section #3)
-* Envisioning the result of our project work (section #4) will also help with 
-drafting better objectives (section #2)
+* The content you write in corresponding sections (or chapters) are 
+appropriately balanced size-wise. For excample, the first 
+two sections/chapters cannot be more than half of the outline. 
+* The section/chapter you might be most comfortable to start with is section 
+#3. This is because you might have a clearer idea of the work you want to do. 
+* The section/chapter that gives me personally the most trouble is qhen I 
+draft a conference paper (or when I wrote my dissertation) is section/chapter 
+#2. To clearly and accurately articulate the actual objectives of the project 
+work, we need to have a good understanding of 
+  * what we want do (section/chapter #1) and 
+  * how we want to do it (section/chapter #3)
+* Envisioning the result of our project work (section/chapter #4) will also 
+help with drafting better objectives (section/chapter #2)
 * Writing the outline is an iterative process. Don't try to write it in one
 writing session. 
 
