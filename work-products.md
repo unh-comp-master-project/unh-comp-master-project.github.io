@@ -6,6 +6,8 @@ permalink: /work-products/
 
 [Project Work Outline](#project-work-outline)
 
+[Project Work First Draft](#project-work-first-draft)
+
 [Project Paper/Thesis Manuscript](#project-paper/thesis-manuscript)
 
 [Presentation](#presentation)
@@ -52,6 +54,30 @@ project work. It might cause unexpected turns in the development process.
 Regular revisions of the project outline will capture those changes or new 
 directions and will help you with preparing the first full draft of your 
 project paper.
+
+### Project Work First Draft
+The first draft of the paper or dissertation will have the following content 
+based on your review of and updates to similar content in your outline:
+* Reviewed/updated **overarching goal of the study/investigation** carried out 
+by your project work: 
+  * In the 1st section of the paper
+  * or in the 1st chapter of your dissertation
+* Reviewed/updated **project work objectives** (or subgoals or milestones) of 
+the study you have planned in order to achieve the study's goal. This is NOT 
+to be confused with the results of project. This is where you say HOW you've 
+reached the study's goal.
+  * In the 2nd section of the paper
+  * or in the 2nd chapter of the dissertation, or in a  section of the 1st 
+  chapter. 
+* Reviewed/updated **project work approach** 
+  * In the 3rd section of the paper
+  * or in separate chapter of the dissertation, typically following the 
+  background/literature review chapter. 
+* Reviewed/updated **project work results** in a separate section/chapter (what 
+you expect and partially obtained)
+* Drafted **evaluation of the results** based on project work objectives and 
+evaluation criteria and evaluation methods you describe in this section. 
+* Do NOT write the abstract. We are not ready to knowledgeably synthesize in 300 words the entire paper/dissertation.
 
 
 ### Project Paper/Thesis Manuscript

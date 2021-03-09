@@ -34,7 +34,7 @@ communication.
 There will be four learning activities during the semester in which you will 
 reflect on your affective and cognitive well-being, academic commitment, 
 openness to experience, and your computing professional identity. These 
-activities are scheduled in weeks #2, #5, #12, and #15. 
+activities are scheduled in weeks #2, #7, #12, and #15. 
 
 The first three reflections will also include a short 20-minute writing 
 session. Known as the **best possible self**, this kind of reflection has been 
@@ -56,7 +56,7 @@ questions, and reflect on your learning and project work.
 Writing and revising drafts of your project paper or thesis manuscript is an 
 iterative process with three milestones:
 * Outline (5%), due Feb 18, midnight
-* First draft (5%), March 11, midnight
+* First draft (5%), March 15, midnight
 * Almost final draft (5%), April 29, midnight. 
 
 You'll develop these drafts using the **Overleaf** platform and the Overleaf 

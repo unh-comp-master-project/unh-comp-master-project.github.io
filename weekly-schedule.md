@@ -11,8 +11,8 @@ permalink: /weekly-schedule/
 | [Pre-Week 1](#pre-week-1) (by Jan 29, 2021) | Meet with project advisor,  discuss possible topics, and  schedule for regular mdetermineeetings. If this is continuing research, review progress and plan project development milestones. Use Canvas, Overleaf, and GitHub for ongoing communication.| If this is continuing research, review progress, plan thesis development milestones, and determine schedule for regular meetings. Use Canvas, Overleaf and GitHub for ongoing communication. | 
 | [Week 1](#week-1) | Finalize topic. Get tools and services ready, and confiure your laptop as a development machine. If this is continuting research, update Overleaf and GitHub with the latest project development.| Review and upgrade (if ncessary) tools and services on your development machine. Update Overleaf and GitHub with the latest thesis developments |
 | [Week 2](#week-2) | Have the project committee members confirmed. | Re-connect with project committee members and share schedule of dates when their input/participation is needed. | 
-| [Week 3](#week-3) (Feb 18) | Prepare outline of project  over-arching goal, project work objectives and scope, and expected outcomes | Prepare thesis completion plan with timeline and milestones in consultation with your advisor. Share plan with thesis committee. |
-| [Week 6](#week-6) (Mar 11) | Submit first full draft of the project paper| Submit first full draft of the thesis dissertation |
+|  (Feb 18) | Prepare outline of project  over-arching goal, project work objectives and scope, and expected outcomes | Prepare thesis completion plan with timeline and milestones in consultation with your advisor. Share plan with thesis committee. |
+| [Week 6](#week-6) (Mar 15) | Submit first full draft of the project paper| Submit first full draft of the thesis dissertation |
 | [Week 7](#week-7) | Mid-semester check point with project advisor | Mid-semester check point with thesis advisor |
 | [Week 13](#week-13) (Apr 29) | Submit "almost final" project paper | Submit "alsmot final" disseratation  paper |
 | [Week 14](#week-14) (May 6-7)| Give project presentation | Defend your thesis |
@@ -100,12 +100,28 @@ Go to the top of [Timeline](#timeline)
 Go to the top of [Timeline](#timeline)
 
 #### Week 2
+* Reflection 1: due Thursday, **Feb 12**
+* R&D outline draft: due Thursday, **Feb 18**
 
 #### Week 3
+* Feb 19 class agenda
+    * Reflective practitioners
+    * Goal of project work study
+    * Outline of project work
+    * Plagiarism, attribution, citations, references
+    * Project development process
+    * Project directory structure
+    * Next steps
+
+Go to the top of [Timeline](#timeline)
 
 #### Week 6
+* Mar 12 class agenda
+* First draft: due Monday, **Mar 15**
 
 #### Week 7
+* Mid-semester check point with your advisor
+* Reflection 2 due Thursday, **Mar 25**
 
 #### Week 13
 
