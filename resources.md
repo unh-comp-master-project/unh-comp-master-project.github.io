@@ -53,13 +53,16 @@ Development tools you need to have on your machine installed at the
 global/system level are:
 * **bash shell**: terminal on MacOS or Ubuntu, or git-bash on Windows
 * **git** version control
-* program **editor** (e.g. Atom) or **IDE** (e.g Visual Studio Code)
+* program **editor** (e.g. Atom, Notepad++) or **IDE** (e.g PyCharm, Visual 
+Studio Code)
 * **debugger** (integrated with the editor or IDE)
+* **unit testing** (can also be integrated with an IDE)
 * **static code analysi**s** tools (e.g. pylint and pycodestyle for Python)
 
 If you code in Python, use 
 * **pyenv** utility to manage your Python installations
 * **pipenv** or **conda** for package and environment management 
+* **PyCharm Professional** IDE - free license for all enrolled students.
 
 ### Useful Readings ###
 Serge Demeyer. 2011. [Research methods in Computer Science tutorial](https://unh.box.com/s/ubanos64ju4emwsh7m8ab8l5auedi2ub). IEEE International Conference on Software Maintenance.
