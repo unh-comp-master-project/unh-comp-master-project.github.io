@@ -124,7 +124,7 @@ Go to the top of [Timeline](#timeline)
 #### Mar 12 class agenda
 
 ### Week 7
-* First paper/dissertation draft: due Monday, **Mar 15**
+* First paper/dissertation draft: due Monday, **Mar 19**
 * Mid-semester check point with your advisor
 
 ### Week 8
