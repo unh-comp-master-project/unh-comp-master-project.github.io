@@ -4,27 +4,35 @@ title: Weekly Schedule
 permalink: /weekly-schedule/
 ---
 
-### Timeline 
+## Timeline 
 
-| **Week #** | **Project Activity** | **Thesis Activity** |
+| **Week #** | **Activities** |
 | --- | --- |
-| [Pre-Week 1](#pre-week-1) (by Jan 29, 2021) | Meet with project advisor,  discuss possible topics, and  schedule for regular mdetermineeetings. If this is continuing research, review progress and plan project development milestones. Use Canvas, Overleaf, and GitHub for ongoing communication.| If this is continuing research, review progress, plan thesis development milestones, and determine schedule for regular meetings. Use Canvas, Overleaf and GitHub for ongoing communication. | 
-| [Week 1](#week-1) | Finalize topic. Get tools and services ready, and confiure your laptop as a development machine. If this is continuting research, update Overleaf and GitHub with the latest project development.| Review and upgrade (if ncessary) tools and services on your development machine. Update Overleaf and GitHub with the latest thesis developments |
-| [Week 2](#week-2) | Have the project committee members confirmed. | Re-connect with project committee members and share schedule of dates when their input/participation is needed. | 
-|  (Feb 18) | Prepare outline of project  over-arching goal, project work objectives and scope, and expected outcomes | Prepare thesis completion plan with timeline and milestones in consultation with your advisor. Share plan with thesis committee. |
-| [Week 6](#week-6) (Mar 15) | Submit first full draft of the project paper| Submit first full draft of the thesis dissertation |
-| [Week 7](#week-7) | Mid-semester check point with project advisor | Mid-semester check point with thesis advisor |
-| [Week 13](#week-13) (Apr 29) | Submit "almost final" project paper | Submit "alsmot final" disseratation  paper |
-| [Week 14](#week-14) (May 6-7)| Give project presentation | Defend your thesis |
-| [Post-Week 15](#post-week-15)| May 17: Complete project development work | May 17: Compoete thesis development work |
-|  | May 24: Submit final paper | May 24: Submit final thesis manuscript|
+| [Pre-Week 1](#pre-week-1) | Meet with faculty advisor,  discuss possible topics, and  schedule for regular meetings. If this is continuing research, review progress and plan milestones of project work development. Use Canvas, Overleaf, and GitHub for ongoing communication. | 
+| [Week 1](#week-1) | Finalize topic. Get tools and services ready, and confiure your laptop as a development machine. If this is continuting research, update Overleaf and GitHub with the latest development artifacts. |
+| Feb 5 | Class meeting #1. Go to [Feb 5 Class Agenda](#feb-5-class-agenda) |
+| [Week 2](#week-2) | Have the project/thesis committee members confirmed. If this is continuing research, re-connect with project committee members and share schedule of dates when their input/participation is needed. | 
+| Feb 12 | Reflection 1 is due. |
+| [Week 3](#week-3) | In consultation with your faculty advisor, prepare outline that includes: over-arching goal, project work objectives and scope, expected results, and evaluation strategy. |
+| Feb 19 | Class meeting #2. Go to [Feb 5 Class Agenda](#feb-5-class-agenda) |
+| [Week 6](#week-6) | Class meeting #3. Go to [Mar 12 Class Agenda](#mar-12-class-agenda) |
+| [Week 7](#week-7) | Mid-semester check point with faculty advisor.| 
+| Mar 15 | Submit first full draft of the paper/dissertation. |
+| [Week 8](#week-8) | Reflection 2 is due March 25 |
+| [Week 10](#week-10) | Class meeting #4. Go to [Apr 9 Class Agenda](#apr-9-class-agenda) |
+| [Week 13](#week-13) | Submit "almost final" paper/dissertation version Apr 29. |
+| | Class meeting #5. Go to [Apr 30 Class Agenda](#apr-30-class-agenda) |
+| [Week 14](#week-14) | Give project presentation or defend your thesis May 6-7. |
+| [Week 15](#week-15) | Reflection 4 is due May 11. |
+| [Week 16](#week-16)| Complete project/thesis development work due May 17. |
+| [Week 17](#week-17) | Final paper/thesis manuscript due May 24. |
 
 **Note** Each week starts Saturday and ends Friday noon. For weeks when we 
 have class meetings scheduled, you must have the assigned work completed 
 Thursday midnight. 
 
-### Weekly Activities
-#### Pre-Week 1
+## Weekly Activities
+### Pre-Week 1
 There is important preparation you are responsible for before the first class 
 in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH 
     Overleaf subscription, or you are not on the Master's Project/Thesis 
@@ -82,52 +90,67 @@ in Week 1. If you don't have a GitHub remote repo or Overleaf account on the UNH
 
 Go to the top of [Timeline](#timeline)
 
-#### Week 1
-* Feb 5 class agenda
-    * Who we are
-        * students, guests, learning assistant, course instructor
-    * Syllabus tour
-    * Learning in this course
-        * how, with whom, what
-        * desirable professional competencies
-    * Overview of computing areas of R8D
-    * R&D strategies for the project work
-    * Next steps
-
-* Reflection 1: due next Thursday, **Feb 12**
-* R&D outline draft: due in two weeks, Thursday, **Feb 18**
+### Week 1
+#### Feb 5 class agenda
+* Who we are
+    * students, guests, learning assistant, course instructor
+* Syllabus tour
+* Learning in this course
+    * how, with whom, what
+    * desirable professional competencies
+* Overview of computing areas of R8D
+* R&D strategies for the project work
+* Next steps
 
 Go to the top of [Timeline](#timeline)
 
-#### Week 2
+### Week 2
 * Reflection 1: due Thursday, **Feb 12**
-* R&D outline draft: due Thursday, **Feb 18**
+* Project work outline draft: due Thursday, **Feb 18**
 
-#### Week 3
-* Feb 19 class agenda
-    * Reflective practitioners
-    * Goal of project work study
-    * Outline of project work
-    * Plagiarism, attribution, citations, references
-    * Project development process
-    * Project directory structure
-    * Next steps
+### Week 3
+#### Feb 19 class agenda
+* Reflective practitioners
+* Goal of project work study
+* Outline of project work
+* Plagiarism, attribution, citations, references
+* Project development process
+* Project directory structure
+* Next steps
 
 Go to the top of [Timeline](#timeline)
 
-#### Week 6
-* Mar 12 class agenda
-* First draft: due Monday, **Mar 15**
+### Week 6
+#### Mar 12 class agenda
 
-#### Week 7
+### Week 7
+* First paper/dissertation draft: due Monday, **Mar 15**
 * Mid-semester check point with your advisor
+
+### Week 8
 * Reflection 2 due Thursday, **Mar 25**
 
-#### Week 13
+### Week 10
+#### Apr 9 class agenda
 
-#### Week 14
+### Week 12
+* Reflection 3 due Thursday, **Apri 22**
 
-#### Post-Week 15
+### Week 13
+* Almost final paper/dissertation due **Apr 29**
+#### Apr 30 class agenda
+
+### Week 14
+* Project presentations and thesis defenses scheduled May 6-7
+
+### Week 15
+* Reflection 4 is due Thursday, **May 11**
+
+### Week 16
+* Complete project/thesis development work due May 17
+
+### Week 17
+* Final paper/thesis manuscript due May 24
 
 Go to the top of [Timeline](#timeline)
 
