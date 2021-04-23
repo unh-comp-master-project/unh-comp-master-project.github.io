@@ -34,7 +34,7 @@ communication.
 There will be four learning activities during the semester in which you will 
 reflect on your affective and cognitive well-being, academic commitment, 
 openness to experience, and your computing professional identity. These 
-activities are scheduled in weeks #2, #7, #12, and #15. 
+activities are scheduled in weeks #2, #8, #12, and #15. 
 
 The first three reflections will also include a short 20-minute writing 
 session. Known as the **best possible self**, this kind of reflection has been 

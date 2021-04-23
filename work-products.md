@@ -3,12 +3,12 @@ layout: page
 title: Work Products
 permalink: /work-products/
 ---
-
+## List
 [Project Work Outline](#project-work-outline)
 
 [Project Work First Draft](#project-work-first-draft)
 
-[Project Paper/Thesis Manuscript](#project-paper/thesis-manuscript)
+[Project Work Almost Final Draft](#project-work-almost-final-draft)
 
 [Presentation](#presentation)
 
@@ -55,6 +55,8 @@ Regular revisions of the project outline will capture those changes or new
 directions and will help you with preparing the first full draft of your 
 project paper.
 
+Go to the top of the [List](#list) of work products.
+
 ### Project Work First Draft
 The first draft of the paper or dissertation will have the following content 
 based on your review of and updates to similar content in your outline:
@@ -79,8 +81,111 @@ you expect and partially obtained)
 evaluation criteria and evaluation methods you describe in this section. 
 * Do NOT write the abstract. We are not ready to knowledgeably synthesize in 300 words the entire paper/dissertation.
 
+Go to the top of the [List](#list) of work products.
 
-### Project Paper/Thesis Manuscript
+### Project Work Almost Final Draft
+* **Updated title**
+  * Must be about the STUDY, not the primary result of your study
+* **Abstract draft**
+  * See feedback to the  first full draft. 
+  * I recommend you do this AFTER you have the other sections/chapters drafted. 
+  Size: 300-350 words.
+* **Introducctory section(s) (or chapters)** 
+  * Describe the ***problem/issue*** your are studying
+    * If your study is based on an existing system, make sure that your study 
+    is NOT REPEATING stuff from the previous study
+  * Outline why your study, if successful, will be beneficial. 
+    * What are the ***expected  impacts*** of your STUDY (NOT the benefits of 
+    the primary result of your study)
+* State the ***objectives*** of your STUDY 
+  * Objectives are NOT to be confused with results. They are what you have 
+  planned in order to achieve the study's goal 
+* **Elaborate on the objectives**: at minimum, brief paragraph for each 
+objective.
+* You might include a description of **related work** in this segment of your 
+paper or manuscript 
+  * Consult with your project advisor about it. 
+  * This is a required chapter for the thesis manuscript.
+* Conclude the section(s) with one paragraph that describes the organization of 
+the rest of the document. 
+  * In a thesis manuscript, this can be a separate section.
+* **Tentative size**
+  * Paper: title + abstract + CCS list + introductory section(s): 
+    * 20% of the paper, around 2 1/2 columns
+  * Thesis: introductory sections: around 20% - 25% of the manuscript.
+    * It depends how critical related work is to your study. 
+* **Approach**
+  * Describe **HOW** you conducted the STUDY.
+  * Using a logical order of the study's objectives, describe in more detail 
+  the ACTUAL work carried out.
+  * Do NOT make it into mini presentations of various methods, tools, 
+  techniques you've used. 
+  * The focus should be on **explaining WHY** and **HOW** you apply a specific 
+  method or use a specific tool, model, algorithm in your study
+  * **Tentative size**: 
+    * Paper: 30% of the paper, around 3 1/2 columns
+    * Thesis: 20-30% of the manuscript
+  * **Results** 
+    * Present **WHAT** your project work produced that shows to what extent 
+    you have achieved the OBJECTIVES
+  * Illustrate **artifacts** that evidence the outcomes of the project work. 
+  * **Explain** what the artifacts mean: why they are important/critical to 
+  your STUDY. 
+  * **Tentative size**: 
+    * Paper: 30% 
+    * Thesis: 20-30%
+* **Evaluation of the results**
+  * It is based on study objectives and evaluation criteria of the results
+  * Present the evaluation approach based on which you could describe the 
+  "goodness" of the results
+  * **Tentative size**: 
+    * Paper: 12-15%, around 2 columns of the paper
+    * Thesis: 10-20%
+* **Conclusion**
+  * Similar to the abstract, but uses past tense and focuses more on the 
+  results and evaluation. 
+  * **Tentative size**: 
+    * Paper/Thesis: 5-10% (paper: less than a column)
+* **References**
+  * Paper: Include them on the 7th page of the paper
+  * Thesis: Separate from the manuscript chapters
+* **Appendix**
+  * Has additional sections for supplementary stuff that gives a more 
+  comprehensive view of your work and results.
+
+Go to the top of the [List](#list) of work products.
+
+### Presentation
+Master's projects and theses are presented to Master's Project Committee. 
+Presentations are open to the public and announced to the department community. 
+A presentation announcement includes project/thesis title and author, 
+presentation date, location, and abstract. Copies of the announcement are posted 
+on the 1st floor and communicated via email to all graduate students and 
+department faculty members.
+
+Presentations are scheduled in the 2nd to last week of the semester. 
+Presentations' schedule is communicated to the committee 
+members by the course instructor. 
+
+#### Project Presentation Format
+The duration of the project presentation is no longer than 30 minutes:
+* 20-25 minutes slide presentation and brief demo (when appropriate)
+* followed by 5-10 minutes discussion.
+
+#### Slides Organization and Guidelines
+Presentation slides must be judiciously designed and include exactly 8 slides
+
+| Slide(s) | Number | Duration | Content |
+|---|---|---|---|
+| title | 1 | 1 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
+| aims | 1 | 2 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
+| approach | 2-3  | 5 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
+| results | 3-4 | 10 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
+| evaluation | 1 | 2 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatinos and constraints. |
+
+Go to the top of the [List](#list) of work products.
+
+## How to Develop Projet Paper or Thesis Manuscript
 
 #### Overleaf Project 
 Overleaf, a cloud-based collaborative authoring tool, is used to draft your 
@@ -110,35 +215,6 @@ an _ACM_ LaTeX authoring template. We have adapted the template and created an
 Overleaf starter project to wchih you and your advisor have access. 
 
 #### Iterative Development
-
-
-### Presentation
-Master's projects and theses are presented to Master's Project Committee. 
-Presentations are open to the public and announced to the department community. 
-A presentation announcement includes project/thesis title and author, 
-presentation date, location, and abstract. Copies of the announcement are posted 
-on the 1st floor and communicated via email to all graduate students and 
-department faculty members.
-
-Presentations are scheduled in the 2nd to last week of the semester. 
-Presentations' schedule is communicated to the committee 
-members by the course instructor. 
-
-#### Project Presentation Format
-The duration of the project presentation is no longer than 30 minutes:
-* 20-25 minutes slide presentation and brief demo (when appropriate)
-* followed by 5-10 minutes discussion.
-
-#### Slides Organization and Guidelines
-Presentation slides must be judiciously designed and include exactly 8 slides
-
-| Slide(s) | Number | Duration | Content |
-|---|---|---|---|
-| title | 1 | 1 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
-| aims | 1 | 2 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
-| approach | 2-3  | 5 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
-| results | 3-4 | 10 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
-| evaluation | 1 | 2 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatinos and constraints. |
 
 <!--
 ### Proposal
