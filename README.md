@@ -37,3 +37,12 @@ mcs (master *) unh-comp-master-project.github.io rbenv --version
 rbenv 1.1.2
 mcs (master *) unh-comp-master-project.github.io 
 ```
+
+## Master's Thesis To Do list
+* Include links to:
+   * https://unh.app.box.com/v/thesischecklist
+   * https://unh.app.box.com/v/thesis-manual
+   * https://unh.app.box.com/v/submission-instructions
+   
+
+
