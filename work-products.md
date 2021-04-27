@@ -168,8 +168,8 @@ Presentations' schedule is communicated to the committee
 members by the course instructor. 
 
 #### Project Presentation Format
-The duration of the project presentation is no longer than 30 minutes:
-* 20-25 minutes slide presentation and brief demo (when appropriate)
+The duration of the project presentation is 25 - 35 minutes:
+* 20-25 minutes slide presentation and brief demo (5-10)
 * followed by 5-10 minutes discussion.
 
 #### Slides Organization and Guidelines
@@ -177,11 +177,11 @@ Presentation slides must be judiciously designed and include exactly 8 slides
 
 | Slide(s) | Number | Duration | Content |
 |---|---|---|---|
-| title | 1 | 1 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
-| aims | 1 | 2 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
-| approach | 2-3  | 5 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
-| results | 3-4 | 10 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
-| evaluation | 1 | 2 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatinos and constraints. |
+| title | 1 | 2 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
+| aims | 1 | 4-5 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
+| approach | 2-3  | 5-10 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
+| results | 3-4 | 10-15 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
+| evaluation | 1 | 4-5 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatioins and constraints. |
 
 Go to the top of the [List](#list) of work products.
 
