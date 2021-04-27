@@ -128,8 +128,8 @@ the rest of the document.
   * **Results** 
     * Present **WHAT** your project work produced that shows to what extent 
     you have achieved the OBJECTIVES
-  * Illustrate **artifacts** that evidence the outcomes of the project work. 
-  * **Explain** what the artifacts mean: why they are important/critical to 
+    * Illustrate **artifacts** that evidence the outcomes of the project work. 
+    * **Explain** what the artifacts mean: why they are important/critical to 
   your STUDY. 
   * **Tentative size**: 
     * Paper: 30% 
