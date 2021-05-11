@@ -23,7 +23,7 @@ permalink: /weekly-schedule/
 | [Week 13](#week-13) | Submit "almost final" paper/dissertation version Apr 29. |
 | | Class meeting #5. Go to [Apr 30 Class Agenda](#apr-30-class-agenda) |
 | [Week 14](#week-14) | Give project presentation or defend your thesis May 6-7. |
-| [Week 15](#week-15) | Reflection 4 is due May 11. |
+| [Week 15](#week-15) | Reflection 4 is due May 13. |
 | [Week 16](#week-16)| Complete project/thesis development work due May 17. |
 | [Week 17](#week-17) | Final paper/thesis manuscript due May 24. |
 
