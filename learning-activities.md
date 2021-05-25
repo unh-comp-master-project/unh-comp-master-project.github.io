@@ -80,7 +80,7 @@ Copies of the announcement are posted on the 1st floor and communicated via
 email to all graduate students and department faculty members. Committee 
 members will consult on their evaluation of your presentation.
 
-### Computing Artifacts (25%)
+### Computing Artifacts (20%)
 The **GitHub** org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis 
 computing artifacts you develop and manage using GitHub platform tools (e.g., 
 Kanban project board, issue tracker) and **git feature branch workflow**. Your 
