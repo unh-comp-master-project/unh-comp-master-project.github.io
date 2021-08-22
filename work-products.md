@@ -19,13 +19,12 @@ manuscript). Limit the overal size of the outline to 1-3 paragraphs per
 section (or chapter). 
 
 In each section (or chapter) address the questions below. 
-1. What will you investigate? What is the overarching goal of the project? 
-2. What objectives will you need to accomplish in order to meet the overall 
-goal?
+1. What will you investigate? What is the overarching goal of the project work? 
+2. What are the sub-goals (or objectives) of your investigation? 
 3. How do you plan to carry out the project work? What are the milestones and artifacts of the development process? What methods, tools, and/or data sets 
 will you use? 
-4. What result do you expect your project work to produce?
-5. How will you evaluate the result?
+4. What result(s) do you expect your project work to produce?
+5. How will you evaluate the result(s)?
 
 You'll need to come up with suggestive names for the section/chapter titles. 
 
@@ -35,16 +34,17 @@ You'll need to come up with suggestive names for the section/chapter titles.
 * The content you write in corresponding sections (or chapters) are 
 appropriately balanced size-wise. For excample, the first 
 two sections/chapters cannot be more than half of the outline. 
-* The section/chapter you might be most comfortable to start with is section 
-#3. This is because you might have a clearer idea of the work you want to do. 
-* The section/chapter that gives me personally the most trouble is qhen I 
+* The section/chapter you might be most comfortable to start with addresses 
+quesiton #3. This is because you might have a clearer idea of the work you want 
+to do. 
+* The section/chapter that gives me personally the most trouble when I 
 draft a conference paper (or when I wrote my dissertation) is section/chapter 
-#2. To clearly and accurately articulate the actual objectives of the project 
-work, we need to have a good understanding of 
+that addresses quesiont #2. To clearly and accurately articulate the actual 
+objectives of the project work, we need to have a good understanding of 
   * what we want do (section/chapter #1) and 
   * how we want to do it (section/chapter #3)
-* Envisioning the result of our project work (section/chapter #4) will also 
-help with drafting better objectives (section/chapter #2)
+* Envisioning the result(s) of our project work (section/chapter that addresses 
+quesiton #34) will also help with drafting better objectives. 
 * Writing the outline is an iterative process. Don't try to write it in one
 writing session. 
 

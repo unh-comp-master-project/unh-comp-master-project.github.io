@@ -70,6 +70,7 @@ Go to the top of [Timeline](#timeline)
 ### Week 1
 Aug 30 - Sep 3
 * Meet with your faculty advisor
+* Get started on the project **outline**
 
 #### Faculty Advisor Meeting
 * Meeting agenda
