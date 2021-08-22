@@ -52,9 +52,10 @@ development activities
     * Set the GitHub project template to **automated Kanban**. See 
     [Configuring automation for project boards](https://github.community/t/using-project-boards-for-task-management/10201)
     * Practice the use of GitHub project board by creating a note card in 
-    the `To-Do` column, named `advisor meeting mm-dd-yyyy`. You will  
-    move it to `In Progress` when you have the meeting and then to  `Done` 
-    after the meeting with your faculty advisor.
+    the `To-Do` column, named `advisor meeting mm-dd-yyyy`. 
+        * Card  should contain reference to where the meeting notes are.
+        * You will move it to `In Progress` when you have the meeting and then 
+        to  `Done` after the meeting with your faculty advisor.
 
 #### Overleaf platform project
 * Verify that your access to an Overleaf project set up to contain your 
@@ -74,9 +75,17 @@ Go to the top of [Timeline](#timeline)
 ### Week 1
 Aug 30 - Sep 3
 * Meet with your faculty advisor
+* Document in the **GitHub Kanban project board** the meeting by moving the 
+meeting card from `To Do` to `In Progress` and then `Done`
+    * The card must have a reference to where the meeting notes are. 
 * Get started on the project **outline**
 
 #### Faculty Advisor Meeting (2)
+* Meeting preparation
+    * Document in the **GitHub Kanban project board** the meeting by moving the
+     meeting card from `To Do` to `In Progress` and then `Done`
+        * The card must have a reference to where the meeting notes are. 
+    * Have the meeting notes ready with the meeting agenda items
 * Meeting agenda
     * Discuss potential project goals and domain area for your project 
     * Narrow down the scope of your project to a very specific domain 
@@ -89,7 +98,7 @@ Aug 30 - Sep 3
     * Determine the [ACM Computing Classification](https://dl.acm.org/ccs) 
     codes that best characterize the computing area of your project.
 * Outputs
-    * Meeting notes
+    * Meeting notes in **OneDrive** or **GitHub Wiki**
     * Mark your Outlook calendar to block off time for your weekly 
     meetings/touch points
     * Review and select the [ACM Computing Classification System (CCS)](https://dl.acm.org/ccs) codes that best represent the domain area of your project; save the 
