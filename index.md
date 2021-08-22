@@ -24,8 +24,7 @@ Technology program. Completion of 24 credits in the major. Cr/F.
 Master's Continuing Research (GRAD 900) is for Master's students who are in 
 residence and need to be full time but have already completed all course 
 requirements, have previously registered for the maximum number of thesis or 
-project credits. As this grants full-time status, students are also responsible 
-for the full time mandatory fees. Effective Fall 2020, GRAD 900 may be taken 
+project credits. Effective Fall 2020, GRAD 900 may be taken 
 only once. However, students who need to repeat this registration may do so 
 with permission. Not Graded.
 

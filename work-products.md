@@ -14,8 +14,7 @@ permalink: /work-products/
 
 ### Project Work Outline
 #### Organization
-Draft the outline of your project work. The content of the outline is organized 
-in sections (in the master's project paper) or chapters (in the master's thesis 
+Draft the outline of your project work. The content of the outline is organized in sections (in the master's project paper) or chapters (in the master's thesis 
 manuscript). Limit the overal size of the outline to 1-3 paragraphs per 
 section (or chapter). 
 
@@ -75,11 +74,12 @@ reached the study's goal.
   * In the 3rd section of the paper
   * or in separate chapter of the dissertation, typically following the 
   background/literature review chapter. 
-* Reviewed/updated **project work results** in a separate section/chapter (what 
-you expect and partially obtained)
+* Reviewed/updated **project work results** in a separate section/chapter 
+(what you expect and partially obtained)
 * Drafted **evaluation of the results** based on project work objectives and 
 evaluation criteria and evaluation methods you describe in this section. 
-* Do NOT write the abstract. We are not ready to knowledgeably synthesize in 300 words the entire paper/dissertation.
+* Do NOT write the abstract. We are not ready to knowledgeably synthesize in 
+300 words the entire paper/dissertation.
 
 Go to the top of the [List](#list) of work products.
 

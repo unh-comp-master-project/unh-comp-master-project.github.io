@@ -6,8 +6,8 @@ permalink: /competencies/
 
 ### Learning Goals
 The purpose of the course is for you to learn to:
-* Conduct a research and development (R&D) study in the Information Technolog 
-(IT) field
+* Conduct a research and development study (R&D study) in the Information 
+Technolog (IT) field
 * Apply IT concepts, computational approaches, and computing tools in the 
 process of developing, evaluating, and writing about a project that addresses 
 an authentic issue or problem of interest
@@ -27,9 +27,13 @@ option is most appropriate for students who desire to develop additional
 research skills and plan on pursuing a Ph.D. or seek a career in research.
 
 ### Professional Competencies
+* Analyze the project's computing problem and requirements to identify 
+a technically sound solution
 * Design, implement, and evaluate the project's computing-based solution
-* Communicated effectively with your classmates, faculty advisor, course 
-instructor, and project/thesis committee members
+* Communicate effectively with your classmatespeers, faculty advisor, course 
+instructor, and thesis committee members
+    * *Master's Thesis*: In addition, communicate effectively with thesis 
+    committee members
 * Demonstrate professional responsibility in all project activities and make 
 informed judgments based on legal and ethical principles
 * Participate and contribute effectively as a member of this class
@@ -40,4 +44,3 @@ informed judgments based on legal and ethical principles
 * *“Walk in another’s shoes”* to learn more about other perspectives, show 
 empathy, consider various points of view, and recognize and avoid bias 
 * Have confidence in dealing with complexity
-
