@@ -9,8 +9,8 @@ permalink: /weekly-schedule/
 | **Week #** | **Activities** |
 | --- | --- |
 | [Pre-Week 1](#pre-week-1) | Schedule meeting with faculty advisor and prepare for the meeting. Get your tools ready | 
-| [Week 1](#week-1) | Meet with your faculty advisor. See [Faculty Advisor Meeting](#faculty-advisor-meeting)|
-| [Week 2](#week-2) | Meet with your advisor. *Master's Thesis* only: select (or re-connect) with thesis committee members. **Class meeting #1**. Go to [Sep 10 Meeting Agenda](#sep-10-meeting-agenda)| 
+| [Week 1](#week-1) | Meet with your faculty advisor. See [Faculty Advisor Meeting (1)](#faculty-advisor-meeting-1)|
+| [Week 2](#week-2) | Meet with your advisor. See [Faculty Advisor Meeting (2)](#faculty-advisor-meeting-2). *Master's Thesis* only: select (or re-connect) with thesis committee members. **Class meeting #1**. Go to [Sep 10 Meeting Agenda](#sep-10-meeting-agenda)| 
 | [Week 3](#week-3) | Get started on the **Project Outline**. Meet with your advisor. **Reflection 1** is due Sep 16. |
 | [Week 4](#week-4) | Meet with your advisor. Do project work. **Project Outline** is due Sep 23. **Class meeting #2**. Go to [Sep 24 Meeting Agenda](#sep-24-meeting-agenda) |
 | [Week 5](#week-5) | Do project work. Meet/communicagte with your faculty advisor|
@@ -64,7 +64,7 @@ project paper or thesis manuscript materials.
 * Become familiar with 
 [Overleaf and LaTeX](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) 
 
-#### Faculty Advisor Meeting**
+#### Faculty Advisor Meeting (1)
 * Connect with your advisor the week of Aug 23 - 27 to schedule an 
 advising meeting NO LATER than **Sep 3**. 
 * Use Discord **# advisor** channel for more information.
@@ -76,7 +76,7 @@ Aug 30 - Sep 3
 * Meet with your faculty advisor
 * Get started on the project **outline**
 
-#### Faculty Advisor Meeting
+#### Faculty Advisor Meeting (2)
 * Meeting agenda
     * Discuss potential project goals and domain area for your project 
     * Narrow down the scope of your project to a very specific domain 
