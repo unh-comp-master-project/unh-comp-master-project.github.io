@@ -58,7 +58,7 @@ development activities
         to  `Done` after the meeting with your faculty advisor.
 
 #### Overleaf platform project
-* Verify that your access to an Overleaf project set up to contain your 
+* Verify that your access to an Overleaf project is set up to contain your 
 project paper or thesis manuscript materials. 
 * Use Discord **# overleaf** channel for more information.
 * The name of your Overleaf project is **2021-fall Lastname, Firstname**.
@@ -134,10 +134,12 @@ Go to the top of [Timeline](#timeline)
 
 ### Week 3
 Sep 13 - Sep 17
-* Draft project **outline**
+* Continue drafting your project **outline**
+    * Read first feedback to outline draft and revise
 * Meet/communicate with your faculty advisor
     * Get feedback on project **outline** draft
 * Review feedback and revise **outline** draft
+    * Read second feedback to outline draft and revise
 * Document projet work using
     * GitHub Kanban board and cards
     * GitHub Wiki
