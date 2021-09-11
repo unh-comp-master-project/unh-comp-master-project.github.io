@@ -20,7 +20,7 @@ of control over your life to achieve your personal and professional goals.
     * Managing your project/thesis work activities using the 
     **GitHub Kanban project board**
     * Progressively documenting your work while drafting the project paper or 
-    thesis manuscript using the *Overleaf platform**
+    thesis manuscript using the **Overleaf platform**
     * Give a **presentation** of your project or thesis to peers, faculty 
     advisors, thesis committee members, and other guests 
 in the second to last week of the term.
