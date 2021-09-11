@@ -24,7 +24,7 @@ permalink: /weekly-schedule/
 | [Week 13](#week-13) | Do project work. Meet/communicate with your faculty advisor. Review feedback and revise **almost final** draft. **November 23** is the last day to have your thesis reviewed for formatting by the Graduate School for December graduation |
 | [Week 14](#week-14) | Meet/communicate with your advisor. Do project work. **Almost Final** is Due Dec 2.  **Reflection 3** is due Dec 3, noon. **Class meeting #5**. Go to [Dec 3 Meeting Agenda](#dec-3-meeting-agenda). *Intent-to-graduate* for December 2021 is due **Friday, Dec 3** |
 | [Week 15](#week-15) | Meet/communicate with your advisor. Do project work. **Project presentation** and **thesis defense** are scheduled Dec 8 - Dec 10. |
-| [Week 16](#week-16)| All **computing artifacts** are due Dec 13. **Thesis manuscript** is due to Graduate School Dec 13. Meet/communicate with your advisor. Do project work. **Reflection 4** is due Dec 16.  **Thesis manuscript** is due to Graduate Schoole **Tuesday, Dec 14**|
+| [Week 16](#week-16)| All **computing artifacts** are due Dec 13. **Thesis manuscript** is due to Graduate School Dec 14. Meet/communicate with your advisor. Do project work. **Reflection 4** is due Dec 16.  **Thesis manuscript** is due to Graduate Schoole **Tuesday, Dec 14**|
 | [Week 17](#week-17) | Final **project paper** is due Dec 20. |
 
 **Note** Each week starts Saturday and ends Friday noon. For weeks when we 
