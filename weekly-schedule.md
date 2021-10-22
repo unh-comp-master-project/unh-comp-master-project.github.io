@@ -193,8 +193,6 @@ Go to the top of [Timeline](#timeline)
 Oct 18 - Oct 22
 * Meet/communicate with faculty advisor
 * Do and document project work
-* Reflect on your *best possible self* and prepare **Reflection 2**
-    * **Reflection 2** is due **Thursday, Oct 21**
 
 #### Oct 22 Meeting Agenda
 
@@ -224,6 +222,8 @@ Go to the top of [Timeline](#timeline)
 Nov 9 - Nov 12
 * Do and document work on the project
 * Meet/communicate with faculty advisor
+* Reflect on your *best possible self* and prepare **Reflection 2**
+    * **Reflection 2** is due **Thursday, November 11**
 
 #### Nov 12 Meeting Agenda
 
