@@ -22,10 +22,10 @@ permalink: /weekly-schedule/
 | [Week 11](#week-11) | Meet/communicate with your advisor. Do project work. **Reflection 2** is due Nov 11. **Class meeting #4**. Go to [Nov 12 Meeting Agenda](#nov-12-meeting-agenda)|
 | [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. Get started on the **Almost Final** drat.|
 | [Week 13](#week-13) | Do project work. Meet/communicate with your faculty advisor. Review feedback and revise **almost final** draft. **November 23** is the last day to have your thesis reviewed for formatting by the Graduate School for December graduation |
-| [Week 14](#week-14) | Meet/communicate with your advisor. Do project work. **Almost Final** is Due Dec 2.  **Reflection 3** is due Dec 3, noon. **Class meeting #5**. Go to [Dec 3 Meeting Agenda](#dec-3-meeting-agenda). *Intent-to-graduate* for December 2021 is due **Friday, Dec 3** |
-| [Week 15](#week-15) | Meet/communicate with your advisor. Do project work. **Project presentation** and **thesis defense** are scheduled Dec 8 - Dec 10. |
-| [Week 16](#week-16)| All **computing artifacts** are due Dec 13. **Thesis manuscript** is due to Graduate School Dec 14. Meet/communicate with your advisor. Do project work. **Reflection 4** is due Dec 16.  **Thesis manuscript** is due to Graduate Schoole **Tuesday, Dec 14**|
-| [Week 17](#week-17) | Final **project paper** is due Dec 20. |
+| [Week 14](#week-14) | Meet/communicate with your advisor. Do project work. **Reflection 3** is due Dec 2. **Class meeting #5**. Go to [Dec 3 Meeting Agenda](#dec-3-meeting-agenda). *Intent-to-graduate* for December 2021 is due **Friday, Dec 3** |
+| [Week 15](#week-15) | Meet/communicate with your advisor. Do project work. **Almost Final** is Due Dec 6.**Project presentations** are scheduled Friday, Dec 10.|
+| [Week 16](#week-16)| More **Project presentations** are scheduled Monday, Dec 13. All **computing artifacts** are due Dec 13. **Thesis manuscript** is due to Graduate School Dec 14. Meet/communicate with your advisor. Do project work. **Reflection 4** is due Dec 16.  **Thesis manuscript** is due to Graduate Schoole **Tuesday, Dec 14**|
+| [Week 17](#week-17) | Final **project paper** and **Reflection 5** are due Dec 20. |
 
 **Note** Each week starts Saturday and ends Friday noon. For weeks when we 
 have class meetings scheduled, you must have the assigned work completed 
@@ -255,7 +255,6 @@ Nov 29 - Dec 3
 * Do and document project wrok
 * Meet/communicate with faculty advisor
 * Finalize your **almost final** project paper/thesis manuscript
-    * **Almost final** draft is due **Thursday, Dec 2**
 * Reflect on your *best possible self* and prepare **Reflection 3**
     **Reflection 3** due **Friday, Dec 3, noon time**
 * *Intent-to-graduate* for December 2021 is due **Friday, Dec 3**
@@ -272,14 +271,16 @@ Dec 6 - Dec 10
     * GitHub Wiki
     * Other ther materials (e.g., OneDrive files shared with faculty advisor 
     and course instrutor)
+* **Almost final** draft is due **Monday, Dec 6**
 * Meet/communicate with faculty advisor
 * Prepare, rehearse, get feedback, and give your **presentation**
-* Presenatations are scheduled **Wednesday, Dec 8** through **Friday, Dec 10**
+* Presenatations are scheduled **Friday, Dec 10**
 
 Go to the top of [Timeline](#timeline)
     
 ### Week 16
 Dec 13 - Dec 17
+* Presenatations are scheduled **Monday, Dec 13**
 * Complete all the **computing artifacts**
     * **Computing artiacts** are due **Monday, Dec 13**
 * *Master's Thesis*
@@ -295,6 +296,8 @@ Go to the top of [Timeline](#timeline)
 ### Week 17
 Dec 20 - Dec 24
 * Final **project paper** due **Monday, Dec 20**
+* Reflect on your *best possible self* and prepare **Reflection 5**
+    * **Reflection 5** is due **Monday, Dec 20**
 
 Go to the top of [Timeline](#timeline)
 
