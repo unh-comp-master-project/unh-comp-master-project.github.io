@@ -177,11 +177,12 @@ Presentation slides must be judiciously designed and include exactly 8 slides
 
 | Slide(s) | Number | Duration | Content |
 |---|---|---|---|
-| title | 1 | 2 min | Has project title, author, project advisor, and Date. Briefly describe the issue/problem the project addresses |
-| aims | 1 | 4-5 min | Has clearly stated and very specific objectives presented in a bulleted list. You start with introducing  the goal of the project and why it is importnat. Continue with presenting the objectives |
-| approach | 2-3  | 5-10 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
-| results | 3-4 | 10-15 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
-| evaluation | 1 | 4-5 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatioins and constraints. |
+| Title | 1 | 1 min | Has project title, author, project advisor, and Date. |
+| Motivation and Goal | 1| 2 min | Briefly describe the issue/problem the project addresses. Conclude with a clearly stated goal |
+| Objectives | 1 | 4-5 min | Has clearly stated and very specific objectives presented in a bulleted list. Unpack the goal into the study's objectives to ouline the plan that guided your work. |
+| Approach | 2-3  | 5-10 min |  Has tools, data sets, frameworks, techniques, and other resources needed to do the project work. You explain how you did the project and how you achieve the project's objectives |
+| Results | 2-3 | 10 min | Has evidence of the project deliverables, components, and functionality. You present and demonstrate what the project's artifacts are and what they accomplish |
+| Evaluation | 1 | 4-5 min | Has evaluation of the results. You explain to what degree the project achieved its objectives, including limitatioins and constraints. |
 
 Go to the top of the [List](#list) of work products.
 
