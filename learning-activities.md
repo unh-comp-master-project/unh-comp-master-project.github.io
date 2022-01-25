@@ -3,8 +3,8 @@ layout: page
 title: Learning Activities
 permalink: /learning-activities/
 ---
-Learning in this course depends on **reflective practice**, 
-**open collaboration**, and **support and respect** for one another.
+Learning in this course depends on <!--- **reflective practice**,---> 
+**open collaboration** and **support and respect** for one another.
 To develop professional competencies through project work, you will engage in 
 a variety of learning activities with peers, course instructor, and faculty 
 advisor. 
@@ -18,8 +18,8 @@ and outcomes.
 
 Your project work will also include:
 * Collaboration with peers
-* Reflections on your best possible self, academic commitment, openness to 
-experience, and computing professional identity
+<!-_- * Reflections on your best possible self, academic commitment, openness to 
+experience, and computing professional identity --->
 * Regular interactions with and feedback from your faculty advisor and course 
 instructor.
 
@@ -35,6 +35,7 @@ discussions (texting, voice,  and video chat) among all class members.
 and share tools that these platforms have to maximize the effectiveness of our 
 communication. 
 
+<!---
 ### Reflections (5%)
 There will be four learning activities during the semester in which you will 
 reflect on your affective and cognitive well-being, academic commitment, 
@@ -48,8 +49,9 @@ possible self, you learn about yourself, what you want in life, and how to
 restructure your priorities. It can also help you increase your sense of 
 control over your life by highlighting what you need to do to achieve your 
 goals.  
+--->
 
-### Class Meetings (10%)
+### Class Meetings (15%)
 The course semester has 15 weeks with **five 2-hour scheduled class meetings**. 
 These class meetings are structured to create a learning environment 
 supportive of your project work. Your responsibility is to be on time, 
