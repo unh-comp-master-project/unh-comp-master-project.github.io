@@ -18,7 +18,7 @@ various subjects.
 repositories
 * Public web site at <https://unh-comp-master-project.github.io/>
 * **Overleaf** platform hosts your project written artifacts.
-* **Qualtrics** platform has prompts for the reflection activities
+<!--- * **Qualtrics** platform has prompts for the reflection activities --->
 
 ### Center for Academic Enrichment
 Tutors in the **Center for Academic Enrichment (CAE)** are well-prepared to 
