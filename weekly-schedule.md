@@ -40,22 +40,6 @@ There is important preparation you are responsible for before semester starts.
 * Join Discord by going to the link in Canvas. 
 * Change your user name to your first name
 
-#### GitHub remote repo
-* Verify that you have access to the GitHub remote repo. 
-* Use Discord **# github** channel for more information.
-* The name of your GitHub remote repo is **lastname-firstname**
-* Review documentation on how to use 
-[GitHub project board, issues, and pullrequests](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github) to manage all your project 
-development activities
-    * Make sure you've created a project board for your remote repo
-    * Set the GitHub project template to **automated Kanban**. See 
-    [Configuring automation for project boards](https://github.community/t/using-project-boards-for-task-management/10201)
-    * Practice the use of GitHub project board by creating a note card in 
-    the `To-Do` column, named `advisor meeting mm-dd-yyyy`. 
-        * Card  should contain reference to where the meeting notes are.
-        * You will move it to `In Progress` when you have the meeting and then 
-        to  `Done` after the meeting with your faculty advisor.
-
 #### Overleaf platform project
 * Verify that your access to an Overleaf project is set up to contain your 
 project paper or thesis manuscript materials. 
@@ -86,7 +70,6 @@ development activities
     [Configuring automation for project boards](https://github.community/t/using-project-boards-for-task-management/10201)
     * Practice the use of GitHub project board by creating a note card in 
     the `To-Do` column, named `advisor meeting mm-dd-yyyy`. 
-        * Card  should contain reference to where the meeting notes are.
         * You will move it to `In Progress` when you have the meeting and then 
         to  `Done` after the meeting with your faculty advisor. 
 
