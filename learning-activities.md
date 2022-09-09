@@ -5,9 +5,8 @@ permalink: /learning-activities/
 ---
 Learning in this course depends on <!--- **reflective practice**,---> 
 **open collaboration** and **support and respect** for one another.
-To develop professional competencies through project work, you will engage in 
-a variety of learning activities with peers, course instructor, and faculty 
-advisor. 
+To develop professional competencies through project work you will engage in a variety of learning activities with peers, course instructor, and project/thesis advisor. 
+*Note*: that by project work we mean all the work you do to successfully complete your master's project or master's thesis requirements. 
 
 The project work will unfold iteratively, with regular feedback loops. It will 
 encompass:
@@ -20,7 +19,7 @@ Your project work will also include:
 * Collaboration with peers
 <!-_- * Reflections on your best possible self, academic commitment, openness to 
 experience, and computing professional identity --->
-* Regular interactions with and feedback from your faculty advisor and course 
+* Regular interactions with and feedback from your project/thesis advisor and course 
 instructor.
 
 *Note*: Whether you are in the Master's Project or Master's Thesis course, we 
@@ -67,7 +66,7 @@ iterative process with three milestones:
 
 You'll develop these drafts using the **Overleaf** platform and the Overleaf 
 project set up for your project paper/thesis manuscript. The Overleaf project 
-will be shared with your faculty advisor for easy communication and 
+will be shared with your project/thesis advisor for easy communication and 
 collaboration. The course instructor will guide you through this writing 
 process and evaluate the three instances of drafting your project paper/thesis 
 manuscript. 
@@ -75,11 +74,11 @@ manuscript.
 ### Work Progress (10%)
 Weekly progress outlines using **GitHub Kanban** project board and cards 
 (and other means)  will help you plan your work, prepare for your meetings 
-with your faculty advisor, and manage project development activities. Your 
-faculty advisor will assess your work progress.
+with your project/thesis advisor, and manage project development activities. Your 
+project/thesis advisor will assess your work progress.
 
 ### Presentation (10%)
-You'll present your master’s project or thesis to your peers, faculty advisors, 
+You'll present your master’s project or thesis to your peers, project/thesis advisors, 
 and other guests. Thesis committee members will participate in the presentation 
 of the master's theses. Presentations are open to the public and 
 announced to the department community. A presentation announcement includes 
@@ -91,9 +90,9 @@ email to all graduate students and department faculty members.
 The **GitHub** org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis 
 computing artifacts you develop and manage using GitHub platform tools (e.g., 
 Kanban project board, issue tracker) and **git feature branch workflow**. Your 
-faculty advisor will evaluate this component of your project. 
+project/thesis advisor will evaluate this component of your project. 
 
 ### Project Paper or Thesis Manuscript (30%)
-*Master's Project*: Your faculty advisor will evaluate your project paper.
+*Master's Project*: Your project advisor will evaluate your project paper.
 
-*Master's Thesis*: Your faculty advisor and thesis committee members will evaluate your thesis manuscript.
+*Master's Thesis*: Your thesis advisor and thesis committee members will evaluate your thesis manuscript.

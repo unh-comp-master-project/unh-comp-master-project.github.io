@@ -25,8 +25,8 @@ of control over your life to achieve your personal and professional goals.
     advisors, thesis committee members, and other guests 
 in the second to last week of the term.
 
-### Faculty Advisor
-The faculty advisor is responsible for helping you to:
+### Project/Thesis Advisor
+The project/thesis advisor is responsible for helping you to:
 * Define the goal, objectives, scope, and outcomes of your project/thesis
     * *Master's Thesis*: Select your thesis committee
 * Identify and use appropriate methods and tools
@@ -37,7 +37,7 @@ version
 * Evaluate your overall achievements in the course.
 
 ### Thesis Committee
-The project/thesis committee is chaired by your advisor and includes
+The thesis committee is chaired by your thesis advisor and includes
 two other members you select in consultation with your advisor. Two
 committee members are faculty in the **Applied Engineering and Sciences
 Department**. The third committee member can be another academic (from UNH or
@@ -64,7 +64,7 @@ at <https://unh-comp-master-project.github.io/resources/>.
 
 ### Evaluation
 Upon successful completion of your project/thesis, the course instructor and 
-your advisor will evaluate your project/thesis. Your advisor will submit the 
+your project/thesis advisor will evaluate your project/thesis. Your advisor will submit the 
 final letter grade (project) or credit/fail decision (thesis).
 
 If you make progress with the project/thesis work but don't finalize it at the 

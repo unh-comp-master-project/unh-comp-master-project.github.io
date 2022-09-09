@@ -195,7 +195,7 @@ that has review, track changes, and version control features.
 
 Overleaf projects set up before the start of the semester are the places where 
 you draft your paper project/thesis manuscript, collaborate wtih course 
-instructor and faculty advisor, get feedback and iteratively develop the final 
+instructor and project/thesis advisor, get feedback and iteratively develop the final 
 version. 
 
 To get started:

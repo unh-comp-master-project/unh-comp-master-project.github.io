@@ -5,7 +5,7 @@ permalink: /thesis-process/
 ---
 
 **Thesis Proposal and Oral Presentation**
-The master&#39;s student will prepare a thesis proposal and present it to the thesis committee. The primary goal of the thesis proposal is to answer the following questions about the work you plan to complete:
+The master's student will prepare a thesis proposal and present it to the thesis committee. The primary goal of the thesis proposal is to answer the following questions about the work you plan to complete:
 
 - What is the problem/questions?
 - Why is the proposed work interesting or important?

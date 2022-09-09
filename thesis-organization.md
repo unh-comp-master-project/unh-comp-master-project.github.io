@@ -6,7 +6,7 @@ permalink: /organization/
 
 **Thesis Organization**
 
-A master&#39;s thesis describes independent research activity that includes a clear statement of a problem to be solved or questions to be answered; a comprehensive review of relevant literature; collection and analysis of data or design and implementation of a system; and critical evaluation of how the data or system answer the questions or solves the problem.
+A master's thesis describes independent research activity that includes a clear statement of a problem to be solved or questions to be answered; a comprehensive review of relevant literature; collection and analysis of data or design and implementation of a system; and critical evaluation of how the data or system answer the questions or solves the problem.
 
 The thesis includes the normal elements associated with research, as shown below.
 

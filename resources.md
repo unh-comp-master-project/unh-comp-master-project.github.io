@@ -8,7 +8,7 @@ Because of the highly collaborative nature of the course, we’ll be using a var
 * **Zoom** sessions for the scheduled class meetings, when needed.
 * **Canvas** site has
     * course syllabus
-    * learning modules and assignments
+    * learning assignments
     * announcements and links to the Discord server, course public web site, 
     and GitHub org with project repos; 
     * Zoom meetings, gradebook, and classmates list.
@@ -33,7 +33,6 @@ The UNH Manchester librarians are available to assist you with your research. Yo
 * Access Library Resources Remotely: <https://libraryguides.unh.edu/remoteaccess>
 * Get Research Help: <https://libraryguides.unh.edu/remoteaccess/researchhelp>
 * Reserve a study room for Zoom classes: <https://libraryguides.unh.edu/remoteaccess/studyrooms>
-
 
 ### Student Tech Assistants
 The **Computing  Program** in the **Department of Applied Engineering and Sciences** has student tech assistants who are available to help with software 

@@ -28,9 +28,9 @@ project credits. Effective Fall 2020, GRAD 900 may be taken
 only once. However, students who need to repeat this registration may do so 
 with permission. Not Graded.
 
-#### Course Instructor
+#### Course Instructors
+Rich Greene, Ph.D. 
 Mihaela Sabin, Ph.D.
-Professor of Computer Science
 
 #### Project/Thesis Advisors
 * Tim Chadwick, M.D.
