@@ -2,7 +2,7 @@
 
 To run locally the web site: 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --trace
 ```
 
 Local directory for the GtiHub Pages web site:

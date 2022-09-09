@@ -8,23 +8,23 @@ permalink: /weekly-schedule/
 
 | **Week #** | **Activities** |
 | --- | --- |
-| [Week 1](#week-1) | Get your tools ready. See [GitHube remote repo](#github-remote-repo). Meet with your project/thesis advisor. See [Faculty Advisor Meeting](#faculty-advisor-meeting). Get started on the **Project Outline**.|
-| [Week 2](#week-2) | Meet with your advisor. *Master's Thesis* only: select (or re-connect) with thesis committee members. **Class meeting #1**. Go to [Class Meeting 1](#class-meeting-1).| 
+| [Week 1](#week-1) | Get your tools ready. See [GitHube remote repo](#github-remote-repo). Meet with your project/thesis advisor. Get started on the **Project Outline**.|
+| [Week 2](#week-2) | Meet with your project/thesis advisor. *Master's Thesis* only: select (or re-connect) with thesis committee members. **Class meeting #1**. Go to [Class Meeting 1](#class-meeting-1).| 
 | [Week 3](#week-3) | Work on the **Project Outline**. Meet with your advisor. |
-| [Week 4](#week-4) | Meet with your advisor. Do project work. **Project Outline** is due Feb 17. **Class meeting #2**. Go to [Class Meeting 2](#class-meeting-2) |
+| [Week 4](#week-4) | Meet with your advisor. Do project work. **Project Outline** is due. **Class meeting #2**. Go to [Class Meeting 2](#class-meeting-2) |
 | [Week 5](#week-5) | Do project work. Meet/communicagte with your project/thesis advisor|
 | [Week 6](#week-6) | Do project work. Meet/communicagte with your project/thesis advisor|
 | [Week 7](#week-7) | Do project work. Meet/communicagte with your project/thesis advisor| 
 | [Week 8](#week-8) | Do project work. Meet/communicagte with your project/thesis advisor. **Class meeting #3**. |
 | [Week 9](#week-9) | Get started on the **First Draft**. Meet/communicate with your advisor. Do project work |
 | [Week 10](#week-10) | Meet/communicate with your advisor. Do project work. |
-| [Week 11](#week-11) | Meet/communicate with your advisor. Do project work. **First Draft** is due Apr 14. **Class meeting #4** |
-| [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. Work on the **Almost Final** drat. **Monday, April 18** is the last day to have your thesis reviewed for formatting by the Graduate School for December graduation. Intent-to-graduate* for May 2022 is also due **Monday, April 18** |
+| [Week 11](#week-11) | Meet/communicate with your advisor. Do project work. **First Draft** is due. **Class meeting #4** |
+| [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. Work on the **Almost Final** drat. Check the Graduate School calendar for the last day to have your thesis reviewed for formatting by the Graduate School. Also, submit the **Intent-to-graduate** form by the required deadline  |
 | [Week 13](#week-13) | Do project work. Meet/communicate with your project/thesis advisor. Review feedback and revise **almost final** draft. |
-| [Week 14](#week-14) | Meet/communicate with your advisor. Do project work. **Class meeting #5**. |
-| [Week 15](#week-15) | Meet/communicate with your advisor. Do project work. **Thesis manuscript** is due to Graduate School May 9. **Almost Final** is due May 12. **Project presentations** are scheduled Friday, May 13.|
-| [Week 16](#week-16)| Meet/communicate with your advisor. More **Project presentations** are scheduled Monday, May 16. All **computing artifacts** are due May 16. Complete your project paper. |
-| [Week 17](#week-17) | Final **project paper** are due May 23. |
+| [Week 14](#week-14) | Meet/communicate with your project/thesis advisor. Do project work. **Class meeting #5**. |
+| [Week 15](#week-15) | Meet/communicate with your project/thesis advisor. Do project work. Check Graduate School schedule to meet the deadline for submitting your **thesis manuscript**. **Almost Final** is due. **Project presentations** schedule is finalized.|
+| [Week 16](#week-16)| Meet/communicate with your project/thesis advisor. More **Project presentations** might be scheduled. All **computing artifacts** are due. Complete your project paper. |
+| [Week 17](#week-17) | Final **project paper** is due. |
 
 **Note** Each week starts Saturday and ends Friday noon. For weeks when we 
 have class meetings scheduled, you must have the assigned work completed 
@@ -57,7 +57,6 @@ Go to the top of [Timeline](#timeline)
 --->
 
 ### Week 1
-Jan 24 - 28
 #### GitHub remote repo
 * Verify that you have access to the GitHub remote repo. 
 * Use Discord **# github** channel for more information.
@@ -104,7 +103,6 @@ development activities
 Go to the top of [Timeline](#timeline)
 
 ### Week 2
-Jan 21 - Feb 4
 * Have all your tools and platforms set up
 * Get started on drafting the project **outline**
 * Meet with your project/thesis advisor
@@ -136,7 +134,6 @@ project paper or thesis manuscript materials.
 Go to the top of [Timeline](#timeline)
 
 ### Week 3
-Feb 7 - Feb 11
 * Continue drafting your project **outline**
     * Read first feedback to outline draft and revise
 * Meet/communicate with your project/thesis advisor
@@ -155,10 +152,8 @@ Feb 7 - Feb 11
 Go to the top of [Timeline](#timeline)
 
 ### Week 4
-Feb 14 - Feb 18
 * Meet/communicate with project/thesis advisor
 * Review feedback, revise, finalize, and submit project **outline**
-    * Project **outline** is due **Thursday, Feb 17**
 * Do and document project work
 
 #### Class Meeting 2
@@ -173,28 +168,24 @@ Feb 14 - Feb 18
 Go to the top of [Timeline](#timeline)
 
 ### Week 5
-Feb 21 - Feb 25
 * Meet/communicate with project/thesis advisor
 * Do and document project work
 
 Go to the top of [Timeline](#timeline)
 
 ### Week 6
-Feb 28 - Mar 4
 * Meet/communicate with project/thesis advisor
 * Do and document projet work
 
 Go to the top of [Timeline](#timeline)
 
 ### Week 7
-Mar 7 - Mar 11
 * Meet/communicate with project/thesis advisor
 * Do and document project work
 
 Go to the top of [Timeline](#timeline)
 
 ### Week 8
-Mar 21 - Mar 25
 * Meet/communicate with project/thesis advisor
 * Do and document project work
 
@@ -203,7 +194,6 @@ Mar 21 - Mar 25
 Go to the top of [Timeline](#timeline)
 
 ### Week 9
-Mar 28 - Apr 1
 * Do and document project work
 * Get started on the **first draft** of your project paper/thesis manuscript
 * Meet/communicate with project/thesis advisor
@@ -213,7 +203,6 @@ Mar 28 - Apr 1
 Go to the top of [Timeline](#timeline)
 
 ### Week 10
-Apr 4 - Apr 8
 * Do and document project work
 * Meet/communicate with project/thesis advisor
    * Get feedback on your project work and your revisions of the **first draft**
@@ -221,11 +210,9 @@ Apr 4 - Apr 8
 Go to the top of [Timeline](#timeline)
 
 ### Week 11
-Apr 11 - Apr 15
 * Do and document work on the project
 * Meet/communicate with project/thesis advisor
-* Finalize your **first draft** 
-    * **First draft** is due **Thursday, Apr 14**
+* Finalize and submit your **first draft** 
 
 <!-- * Reflect on your *best possible self* and prepare **Reflection 2**
     * **Reflection 2** is due **Thursday, November 11** -->
@@ -235,30 +222,28 @@ Apr 11 - Apr 15
 Go to the top of [Timeline](#timeline)
 
 ### Week 12
-Apr 18 - Apr 22
 * Do and document project work
 * Get started on the **almost final** draft of your project paper/thesis manuscript
 * Meet/communicate with project/thesis advisor
     * Get feedback on project work and the **almost final** draft
 * Review feedback and revise **almost final** draft
+
+<!--
 * **Monday, April 18** is the last day to have your thesis reviewed for formatting 
 by the Graduate School for December graduation.
-* *Intent-to-graduate* for May 2022 is also due **Monday, April 18**
+* *Intent-to-graduate* for May 2022 is also due.-->
 
 Go to the top of [Timeline](#timeline)
 
 ### Week 13
-Apr 25 - Apr 29
 * Do and document work on the project
 * Meet/communicate with project/thesis advisor
     * Get feedback on project wrok and the **almost final** draft
 * Review feedback and revise **almost final** draft
 
-
 Go to the top of [Timeline](#timeline)
 
 ### Week 14
-May 2 - May 6
 * Do and document project wrok
 * Meet/communicate with project/thesis advisor
 * Finalize your **almost final** project paper/thesis manuscript
@@ -270,7 +255,6 @@ Go to the top of [Timeline](#timeline)
 #### Class Meeting 5
 
 ### Week 15
-May 9 - May 13
 * Complete project work
 * Freeze **Work progress** reflected in
     * GitHut Kanban project board
@@ -278,20 +262,18 @@ May 9 - May 13
     * Other ther materials (e.g., OneDrive files shared with project/thesis advisor 
     and course instrutor)
 * *Master's Thesis*
-    * **Thesis manuscript** is due to Graduate Schoole **Monday, May 9**
-* **Almost final** draft is due **Thursday, May 12**
+    * **Thesis manuscript** is due to Graduate School.
+* **Almost final** draft is due
 * Meet/communicate with project/thesis advisor
 * Prepare, rehearse, get feedback, and give your **presentation**
-* Presenatations are scheduled **Friday, May 13**
+* Presenatations' schedule is finalized
 
 Go to the top of [Timeline](#timeline)
     
 ### Week 16
-May 16 - May 20
 * Meet/communicate with project/thesis advisor
-* Presenatations are scheduled **Monday, May 16**
-* Complete all the **computing artifacts**
-    * **Computing artiacts** are due **Monday, May 16**
+* Presenatations are scheduled
+* Complete and submit all the **computing artifacts**
 * *Master's Project*
     * Revise and finalize your project paper
 
@@ -301,8 +283,7 @@ May 16 - May 20
 Go to the top of [Timeline](#timeline)
 
 ### Week 17
-May 23
-* Final **project paper** due **Monday, May 23**
+* Final **project paper** is due
 
 Go to the top of [Timeline](#timeline)
 
