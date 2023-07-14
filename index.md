@@ -29,12 +29,9 @@ only once. However, students who need to repeat this registration may do so
 with permission. Not Graded.
 
 #### Course Instructors
-* Rich Greene, Ph.D. 
-* Mihaela Sabin, Ph.D.
+* Timothy Finan
 
 #### Project/Thesis Advisors
-* Tim Chadwick, M.D.
 * Karen Jin, Ph.D.
-* Jeremiah Johnson, Ph.D.
 * Mike Jonas, Ph.D.
 * Mihaela Sabin, Ph.D.
