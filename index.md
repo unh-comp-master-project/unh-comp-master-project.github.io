@@ -32,6 +32,7 @@ with permission. Not Graded.
 * Timothy Finan
 
 #### Project/Thesis Advisors
-* Karen Jin, Ph.D.
-* Mike Jonas, Ph.D.
-* Mihaela Sabin, Ph.D.
+* Ken Gitlitz
+* Karen Jin
+* Mike Jonas
+* Mihaela Sabin
