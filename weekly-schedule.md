@@ -72,7 +72,7 @@ development activities
         * You will move it to `In Progress` when you have the meeting and then 
         to  `Done` after the meeting with your project/thesis advisor. 
 
-#### project thesis Advisor Meeting
+#### Project Thesis Advisor Meeting
 * Connect with your advisor and schedule an advising meeting no later than Feb 3
 * Meeting preparation
     * Document in the **GitHub Kanban project board** the meeting by moving the
