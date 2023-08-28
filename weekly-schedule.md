@@ -73,7 +73,7 @@ development activities
         to  `Done` after the meeting with your project/thesis advisor. 
 
 #### Project Thesis Advisor Meeting
-* Connect with your advisor and schedule an advising meeting no later than Feb 3
+* Connect with your advisor and schedule an advising meeting no later than Sept 8
 * Meeting preparation
     * Document in the **GitHub Kanban project board** the meeting by moving the
      meeting card from `To Do` to `In Progress` and then `Done`
