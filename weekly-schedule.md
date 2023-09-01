@@ -18,9 +18,10 @@ permalink: /weekly-schedule/
 | [Week 8](#week-8) | Do project work. Meet/communicagte with your project/thesis advisor|
 | [Week 9](#week-9) | Do project work. Meet/communicagte with your project/thesis advisor. **Class meeting #3**. |
 | [Week 10](#week-10) |  Get started on the **First Draft**. Meet/communicate with your advisor. Do project work |
-| [Week 11](#week-11) | Meet/communicate with your advisor. Do project work. **First Draft** is due. **Class meeting #4** |
-| [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. Work on the **Almost Final** drat. Check the Graduate School calendar for the last day to have your thesis reviewed for formatting by the Graduate School. Also, submit the **Intent-to-graduate** form by the required deadline  |
-| [Week 13](#week-13) | Do project work. Meet/communicate with your project/thesis advisor. Review feedback and revise **almost final** draft. |
+| [Week 11](#week-11) |  Continue work on the **First Draft**. Meet/communicate with your advisor. Do project work |
+| [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. **First Draft** is due. **Class meeting #4** |
+| [Week 13](#week-13) | Meet/communicate with your advisor. Do project work. Work on the **Almost Final** draft. Check the Graduate School calendar for the last day to have your thesis reviewed for formatting by the Graduate School. Also, submit the **Intent-to-graduate** form by the required deadline  |
+| [Week 14](#week-14) | Do project work. Meet/communicate with your project/thesis advisor. Review feedback and revise **almost final** draft. |
 | [Week 14](#week-14) | Meet/communicate with your project/thesis advisor. Do project work. **Class meeting #5**. |
 | [Week 15](#week-15) | Meet/communicate with your project/thesis advisor. Do project work. Check Graduate School schedule to meet the deadline for submitting your **thesis manuscript**. **Almost Final** is due. **Project presentations** schedule is finalized.|
 | [Week 16](#week-16)| Meet/communicate with your project/thesis advisor. More **Project presentations** might be scheduled. All **computing artifacts** are due. Complete your project paper. |
