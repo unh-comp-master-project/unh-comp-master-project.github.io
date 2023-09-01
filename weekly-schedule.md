@@ -15,9 +15,9 @@ permalink: /weekly-schedule/
 | [Week 5](#week-5) | Do project work. Meet/communicagte with your project/thesis advisor|
 | [Week 6](#week-6) | Do project work. Meet/communicagte with your project/thesis advisor|
 | [Week 7](#week-7) | Do project work. Meet/communicagte with your project/thesis advisor| 
-| [Week 8](#week-8) | Do project work. Meet/communicagte with your project/thesis advisor. **Class meeting #3**. |
-| [Week 9](#week-9) | Get started on the **First Draft**. Meet/communicate with your advisor. Do project work |
-| [Week 10](#week-10) | Meet/communicate with your advisor. Do project work. |
+| [Week 8](#week-8) | Do project work. Meet/communicagte with your project/thesis advisor|
+| [Week 9](#week-9) | Do project work. Meet/communicagte with your project/thesis advisor. **Class meeting #3**. |
+| [Week 10](#week-10) |  Get started on the **First Draft**. Meet/communicate with your advisor. Do project work |
 | [Week 11](#week-11) | Meet/communicate with your advisor. Do project work. **First Draft** is due. **Class meeting #4** |
 | [Week 12](#week-12) | Meet/communicate with your advisor. Do project work. Work on the **Almost Final** drat. Check the Graduate School calendar for the last day to have your thesis reviewed for formatting by the Graduate School. Also, submit the **Intent-to-graduate** form by the required deadline  |
 | [Week 13](#week-13) | Do project work. Meet/communicate with your project/thesis advisor. Review feedback and revise **almost final** draft. |
