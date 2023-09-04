@@ -190,8 +190,6 @@ Go to the top of [Timeline](#timeline)
 * Meet/communicate with project/thesis advisor
 * Do and document project work
 
-#### Class Meeting 3
-
 Go to the top of [Timeline](#timeline)
 
 ### Week 9
@@ -200,6 +198,8 @@ Go to the top of [Timeline](#timeline)
 * Meet/communicate with project/thesis advisor
     * Get feedback on your project work and **first draft**
 * Review feedback and revise **first draft**
+
+#### Class Meeting 3
 
 Go to the top of [Timeline](#timeline)
 
