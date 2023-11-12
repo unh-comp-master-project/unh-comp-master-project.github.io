@@ -14,39 +14,32 @@ permalink: /work-products/
 
 ### Project Work Outline
 #### Organization
-Draft the outline of your project work. The content of the outline is organized in sections (in the master's project paper) or chapters (in the master's thesis 
-manuscript). Limit the overal size of the outline to 1-3 paragraphs per 
-section (or chapter). 
+Draft the outline of your project work. The content of the outline is organized in sections. Limit the overal size of the outline to 1-3 paragraphs per 
+section. 
 
-In each section (or chapter) address the questions below. 
+In each section address the questions below. 
 1. What will you investigate? What is the overarching goal of the project work? 
 2. What are the sub-goals (or objectives) of your investigation? 
-3. How do you plan to carry out the project work? What are the milestones and artifacts of the development process? What methods, tools, and/or data sets 
-will you use? 
-4. What result(s) do you expect your project work to produce?
-5. How will you evaluate the result(s)?
+3. How do you plan to carry out the project work?
+ - What are the milestones and artifacts of the development process?
+ - What methods, tools, and/or data sets will you use? 
+5. What results do you expect your project work to produce?
+6. How will you evaluate the results?
 
-You'll need to come up with suggestive names for the section/chapter titles. 
+You'll need to come up with suggestive names for the section titles. 
 
 #### Some Guidelines
 
 * The outline is written in paragraph form.
-* The content you write in corresponding sections (or chapters) are 
-appropriately balanced size-wise. For excample, the first 
-two sections/chapters cannot be more than half of the outline. 
-* The section/chapter you might be most comfortable to start with addresses 
-quesiton #3. This is because you might have a clearer idea of the work you want 
+* The content you write in corresponding sections are appropriately balanced size-wise. For excample, the first 
+two sections cannot be more than half of the outline. 
+* Section 3 (approach, methods, tools) is a good starting point. This is because you probably have a clearer idea of the work you want 
 to do. 
-* The section/chapter that gives me personally the most trouble when I 
-draft a conference paper (or when I wrote my dissertation) is section/chapter 
-that addresses quesiont #2. To clearly and accurately articulate the actual 
-objectives of the project work, we need to have a good understanding of 
-  * what we want do (section/chapter #1) and 
-  * how we want to do it (section/chapter #3)
-* Envisioning the result(s) of our project work (section/chapter that addresses 
-quesiton #34) will also help with drafting better objectives. 
-* Writing the outline is an iterative process. Don't try to write it in one
-writing session. 
+* The section that is not as easy as it seems is Section 2, the objectives or clear sub-goals that will lead to achieving the overarching goal of the project.  To clearly and accurately articulate the actual objectives of the project work, you need to have a good understanding of: 
+  * What you want do, Section #1, overarching goal of your study
+  * How you want to do it, Section #3, approach, methods, tools.
+* Envisioning the results of our project work, Section 4, will also help with drafting better objectives. 
+* Writing the outline is an iterative process, not necessarily linear. Don't try to write it in one writing session. 
 
 Keep in mind that most likely there will be a discovery component in your 
 project work. It might cause unexpected turns in the development process. 
@@ -56,34 +49,26 @@ project paper.
 
 Go to the top of the [List](#list) of work products.
 
-### Project Work First Draft
-The first draft of the paper or dissertation will have the following content 
+### Project Paper First Draft
+The first draft of the project paper will have the following content 
 based on your review of and updates to similar content in your outline:
 * Reviewed/updated **overarching goal of the study/investigation** carried out 
-by your project work: 
-  * In the 1st section of the paper
-  * or in the 1st chapter of your dissertation
+by your project work thatin Section 1.
 * Reviewed/updated **project work objectives** (or subgoals or milestones) of 
-the study you have planned in order to achieve the study's goal. This is NOT 
-to be confused with the results of project. This is where you say HOW you've 
-reached the study's goal.
-  * In the 2nd section of the paper
-  * or in the 2nd chapter of the dissertation, or in a  section of the 1st 
-  chapter. 
-* Reviewed/updated **project work approach** 
-  * In the 3rd section of the paper
-  * or in separate chapter of the dissertation, typically following the 
-  background/literature review chapter. 
-* Reviewed/updated **project work results** in a separate section/chapter 
-(what you expect and partially obtained)
-* Drafted **evaluation of the results** based on project work objectives and 
+the study you have planned in order to achieve the study's goal (Section 2). This is NOT 
+to be confused with the results of project. This is where you say HOW you've reached the study's goal. 
+* Reviewed/updated **project work approach** in Section 3.
+* Reviewed/updated **project work results** in Section 4.
+* Draf of the **evaluation of the results** based on project work objectives and 
 evaluation criteria and evaluation methods you describe in this section. 
-* Do NOT write the abstract. We are not ready to knowledgeably synthesize in 
-300 words the entire paper/dissertation.
+* Do NOT write the abstract yet. You are not ready to knowledgeably synthesize in 
+300 words the entire project paper.
+
+Thesis first draft is organized in chapters. Different from the project paper, a thesis first draft must have a chapter on the relevant literature, theoretical background, and what is known about the particular topic of the thesis. Therefore, the thesis draft also has a more extensive Referencees section. 
 
 Go to the top of the [List](#list) of work products.
 
-### Project Work Almost Final Draft
+### Almost Final Draft (project or thesis)
 * **Updated title**
   * Must be about the STUDY, not the primary result of your study
 * **Abstract draft**
@@ -93,26 +78,26 @@ Go to the top of the [List](#list) of work products.
 * **Introducctory section(s) (or chapters)** 
   * Describe the ***problem/issue*** your are studying
     * If your study is based on an existing system, make sure that your study 
-    is NOT REPEATING stuff from the previous study
+    is NOT REPEATING stuff from the previous study.
   * Outline why your study, if successful, will be beneficial. 
     * What are the ***expected  impacts*** of your STUDY (NOT the benefits of 
     the primary result of your study)
 * State the ***objectives*** of your STUDY 
   * Objectives are NOT to be confused with results. They are what you have 
-  planned in order to achieve the study's goal 
+  planned in order to achieve the study's goal. 
 * **Elaborate on the objectives**: at minimum, brief paragraph for each 
 objective.
 * You might include a description of **related work** in this segment of your 
-paper or manuscript 
+project paper or thesis manuscript 
   * Consult with your project advisor about it. 
   * This is a required chapter for the thesis manuscript.
 * Conclude the section(s) with one paragraph that describes the organization of 
 the rest of the document. 
   * In a thesis manuscript, this can be a separate section.
 * **Tentative size**
-  * Paper: title + abstract + CCS list + introductory section(s): 
-    * 20% of the paper, around 2 1/2 columns
-  * Thesis: introductory sections: around 20% - 25% of the manuscript.
+  * Project Paper: title + abstract + introductory section(s): 
+    * 20% of the paper
+  * Thesis Paper: introductory sections: around 20% - 25% of the manuscript.
     * It depends how critical related work is to your study. 
 * **Approach**
   * Describe **HOW** you conducted the STUDY.
@@ -123,7 +108,7 @@ the rest of the document.
   * The focus should be on **explaining WHY** and **HOW** you apply a specific 
   method or use a specific tool, model, algorithm in your study
   * **Tentative size**: 
-    * Paper: 30% of the paper, around 3 1/2 columns
+    * Paper: 30% of the paper
     * Thesis: 20-30% of the manuscript
   * **Results** 
     * Present **WHAT** your project work produced that shows to what extent 
@@ -139,7 +124,7 @@ the rest of the document.
   * Present the evaluation approach based on which you could describe the 
   "goodness" of the results
   * **Tentative size**: 
-    * Paper: 12-15%, around 2 columns of the paper
+    * Paper: 12-15%
     * Thesis: 10-20%
 * **Conclusion**
   * Similar to the abstract, but uses past tense and focuses more on the 
@@ -147,8 +132,7 @@ the rest of the document.
   * **Tentative size**: 
     * Paper/Thesis: 5-10% (paper: less than a column)
 * **References**
-  * Paper: Include them on the 7th page of the paper
-  * Thesis: Separate from the manuscript chapters
+  * Paper/Thesis: Separate section/chapter
 * **Appendix**
   * Has additional sections for supplementary stuff that gives a more 
   comprehensive view of your work and results.
@@ -210,10 +194,9 @@ To get started:
 Guidelines for formattting your thesis manuscript are maintained by the 
 Graduate School. See manual in UNH Box at <https://unh.app.box.com/v/thesis-manual>. 
 
-The project paper formatting uses the ACM conference paper LaTeX template. 
-_ACM_ has partnered with [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt#.Wqz3xoJG36A)to provide 
-an _ACM_ LaTeX authoring template. We have adapted the template and created an 
-Overleaf starter project to wchih you and your advisor have access. 
+The project paper formatting uses the ACM conference paper template. 
+- [Word template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word)
+- [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-new-master-template/pnrfvrrdbfwt#.Wqz3xoJG36A)to provide an _ACM_ LaTeX authoring template. We have adapted the template and created an Overleaf starter project to wchih you and your advisor have access. 
 
 #### Iterative Development
 
