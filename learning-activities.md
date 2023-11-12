@@ -50,32 +50,38 @@ control over your life by highlighting what you need to do to achieve your
 goals.  
 --->
 
-### Class Meetings (15%)
+### Class Meetings (10%)
 The course semester has 15 weeks with **five 2-hour scheduled class meetings**. 
 These class meetings are structured to create a learning environment 
 supportive of your project work. Your responsibility is to be on time, 
 participate in class discussion, share your progress, give feedback, ask 
 questions, and reflect on your learning and project work. 
 
-### Writing Artifacts (15%)
+Course instructor evaluates this course requirement.
+
+### Writing Artifacts (20%)
 Writing and revising drafts of your project paper or thesis manuscript is an 
 iterative process with three milestones:
-* Outline (5%)
-* First draft (5%)
-* Almost final draft (5%). 
+* Outline (4%)
+* First draft (8%)
+* Almost final draft (8%). 
 
 You'll develop these drafts using the **Overleaf** platform and the Overleaf 
 project set up for your project paper/thesis manuscript. The Overleaf project 
 will be shared with your project/thesis advisor for easy communication and 
-collaboration. The course instructor will guide you through this writing 
-process and evaluate the three instances of drafting your project paper/thesis 
+collaboration. 
+
+The course instructor will guide you through this writing 
+process and evaluate the three iterations of drafting your project paper/thesis 
 manuscript. 
 
 ### Work Progress (10%)
-Weekly progress outlines using **GitHub Kanban** project board and cards 
-(and other means)  will help you plan your work, prepare for your meetings 
-with your project/thesis advisor, and manage project development activities. Your 
-project/thesis advisor will assess your work progress.
+- Weekly progress uses **OneDrive**, **GitHub Project Board**, or other means of sharing to help you
+  - Plan your work
+  - Prepare for your meetings with your project/thesis advisor
+  - Manage project development activities. 
+
+Your project/thesis advisor will assess your work progress.
 
 ### Presentation (10%)
 You'll present your master’s project or thesis to your peers, project/thesis advisors, 
@@ -86,11 +92,12 @@ project/thesis title and author, presentation date, location, and abstract.
 Copies of the announcement are posted on the 1st floor and communicated via 
 email to all graduate students and department faculty members. 
 
+Course instructor and your project/thesis advisor will assess your presentation.
+
 ### Computing Artifacts (20%)
-The **GitHub** org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis 
-computing artifacts you develop and manage using GitHub platform tools (e.g., 
-Kanban project board, issue tracker) and **git feature branch workflow**. Your 
-project/thesis advisor will evaluate this component of your project. 
+The **GitHub** org  associated with this course, <https://github.com/master-projects-theses> hosts the remote repositories of the project/thesis computing artifacts you develop and manage using the **GitHub Project Board** and **git feature branch workflow**. 
+
+Your project/thesis advisor will evaluate this component of your project. 
 
 ### Project Paper or Thesis Manuscript (30%)
 *Master's Project*: Your project advisor will evaluate your project paper.
