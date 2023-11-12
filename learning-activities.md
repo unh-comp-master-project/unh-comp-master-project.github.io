@@ -3,28 +3,27 @@ layout: page
 title: Learning Activities
 permalink: /learning-activities/
 ---
-Learning in this course depends on <!--- **reflective practice**,---> 
-**open collaboration** and **support and respect** for one another.
-To develop professional competencies through project work you will engage in a variety of learning activities with peers, course instructor, and project/thesis advisor. 
-*Note*: that by project work we mean all the work you do to successfully complete your master's project or master's thesis requirements. 
-
-The project work will unfold iteratively, with regular feedback loops. It will 
+Learning in this course depends on:
+- Taking full responsibility for your own learning and project development activities
+- Regular and timely consultation with your project/thesis advisor and course instructor
+- Participation in the scheduled class meetings
+- Steady progress to achieve the planned learning milestones.
+  
+The project development work will unfold iteratively, with regular feedback loops. It will 
 encompass:
 * Research and development of computing artifacts that accomplish the 
 project/thesis objectives
 * Writing of your project paper or thesis manuscript that describes your work 
 and outcomes. 
 
-Your project work will also include:
+Your project development work will also include:
 * Collaboration with peers
-<!-_- * Reflections on your best possible self, academic commitment, openness to 
-experience, and computing professional identity --->
 * Regular interactions with and feedback from your project/thesis advisor and course 
 instructor.
 
 *Note*: Whether you are in the Master's Project or Master's Thesis course, we 
-will refer to your work in the course as **project work**. The final artifact 
-that document your project work is a **project paper** for the Master's Project 
+will refer to your work in the course as **project development work**. The final artifact 
+that documents your project devekionment work is a **project paper** for the Master's Project 
 course or **thesis manuscript** for the Master's Thesis course.
 
 ### Class Communication (priceless)
